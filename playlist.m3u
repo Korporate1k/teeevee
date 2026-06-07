@@ -1,33 +1,33 @@
 #EXTM3U url-tvg="https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg6.xml.gz"
 #EXTINF:0 CUID="4159999" tvg-name="LIVE | CHARLES SCHWAB CHALLENGE: FEATURED HOLES #4, #8, #13 & #16 (FINAL ROUND) | Sun 31 May 08:45 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 3" tvg-id="dummy-4159999" tvg-logo="https://github.com/K-yzu/Logos/blob/main/STREAMING%20SERVICES/ESPN+.png?raw=true" group-title="PPV & Events",LIVE | CHARLES SCHWAB CHALLENGE: FEATURED HOLES #4, #8, #13 & #16 (FINAL ROUND) | Sun 31 May 08:45 EDT (US) | 8K EXCLUSIVE | US: ESPN+ PPV 3
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1924727.ts
-#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="& Family Fun (KIDS)" group-title="Kids",& Family Fun (KIDS)
+#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="& Family Fun (KIDS)" group-title="24/7 TV Shows",& Family Fun (KIDS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536671.ts
-#EXTINF:0 CUID="1133427" tvg-name="& Family Fun (KIDS)" tvg-id="starzkids&family.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="Kids",& Family Fun (KIDS)
+#EXTINF:0 CUID="1133427" tvg-name="& Family Fun (KIDS)" tvg-id="starzkids&family.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="24/7 TV Shows",& Family Fun (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536671.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="& Grace (WILL)" group-title="International",& Grace (WILL)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="& Grace (WILL)" group-title="24/7 TV Shows",& Grace (WILL)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600214.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="& Grace (WILL)" group-title="International",& Grace (WILL)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="& Grace (WILL)" group-title="24/7 TV Shows",& Grace (WILL)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/696019.ts
-#EXTINF:0 CUID="1745724" tvg-name="& Grace (WILL)" tvg-id="dummy-1745724" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",& Grace (WILL)
+#EXTINF:0 CUID="1745724" tvg-name="& Grace (WILL)" tvg-id="dummy-1745724" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",& Grace (WILL)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600214.ts
-#EXTINF:0 CUID="1714121" tvg-name="& Grace (WILL)" tvg-id="dummy-1714121" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",& Grace (WILL)
+#EXTINF:0 CUID="1714121" tvg-name="& Grace (WILL)" tvg-id="dummy-1714121" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",& Grace (WILL)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/696019.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="& Peace (WAR)" group-title="International",& Peace (WAR)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="& Peace (WAR)" group-title="24/7 TV Shows",& Peace (WAR)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599147.ts
-#EXTINF:0 CUID="1713074" tvg-name="& Peace (WAR)" tvg-id="dummy-1713074" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",& Peace (WAR)
+#EXTINF:0 CUID="1713074" tvg-name="& Peace (WAR)" tvg-id="dummy-1713074" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",& Peace (WAR)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599147.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="& Peele (KEY)" group-title="International",& Peele (KEY)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="& Peele (KEY)" group-title="24/7 TV Shows",& Peele (KEY)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598882.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="& Peele (KEY)" group-title="International",& Peele (KEY)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="& Peele (KEY)" group-title="24/7 TV Shows",& Peele (KEY)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/696133.ts
-#EXTINF:0 CUID="1713339" tvg-name="& Peele (KEY)" tvg-id="dummy-1713339" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",& Peele (KEY)
+#EXTINF:0 CUID="1713339" tvg-name="& Peele (KEY)" tvg-id="dummy-1713339" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",& Peele (KEY)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598882.ts
-#EXTINF:0 CUID="1714014" tvg-name="& Peele (KEY)" tvg-id="dummy-1714014" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",& Peele (KEY)
+#EXTINF:0 CUID="1714014" tvg-name="& Peele (KEY)" tvg-id="dummy-1714014" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",& Peele (KEY)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/696133.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="& The Age Of Wonderbeasts (KIPO)" group-title="International",& The Age Of Wonderbeasts (KIPO)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="& The Age Of Wonderbeasts (KIPO)" group-title="24/7 TV Shows",& The Age Of Wonderbeasts (KIPO)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600058.ts
-#EXTINF:0 CUID="1745878" tvg-name="& The Age Of Wonderbeasts (KIPO)" tvg-id="dummy-1745878" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",& The Age Of Wonderbeasts (KIPO)
+#EXTINF:0 CUID="1745878" tvg-name="& The Age Of Wonderbeasts (KIPO)" tvg-id="dummy-1745878" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",& The Age Of Wonderbeasts (KIPO)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600058.ts
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="'n Out (WILD)" group-title="International",'n Out (WILD)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1475990.ts
@@ -6053,17 +6053,17 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/696317.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599130.ts
 #EXTINF:0 CUID="1713091" tvg-name="24 Legacy" tvg-id="dummy-1713091" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",24 Legacy
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599130.ts
-#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="24/7 Laughs" group-title="International",24/7 Laughs
+#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="24/7 Laughs" group-title="24/7 TV Shows",24/7 Laughs
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1537062.ts
-#EXTINF:0 CUID="1133036" tvg-name="24/7 Laughs" tvg-id="dummy-1133036" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="International",24/7 Laughs
+#EXTINF:0 CUID="1133036" tvg-name="24/7 Laughs" tvg-id="dummy-1133036" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="24/7 TV Shows",24/7 Laughs
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1537062.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="24/7 Law & Order" group-title="International",24/7 Law & Order
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="24/7 Law & Order" group-title="24/7 TV Shows",24/7 Law & Order
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013345.ts
-#EXTINF:0 CUID="1715239" tvg-name="24/7 Law & Order" tvg-id="dummy-1715239" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",24/7 Law & Order
+#EXTINF:0 CUID="1715239" tvg-name="24/7 Law & Order" tvg-id="dummy-1715239" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",24/7 Law & Order
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013345.ts
-#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="24/7 Samurai-shinobi" group-title="International",24/7 Samurai-shinobi
+#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="24/7 Samurai-shinobi" group-title="24/7 TV Shows",24/7 Samurai-shinobi
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1537061.ts
-#EXTINF:0 CUID="1133037" tvg-name="24/7 Samurai-shinobi" tvg-id="dummy-1133037" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="International",24/7 Samurai-shinobi
+#EXTINF:0 CUID="1133037" tvg-name="24/7 Samurai-shinobi" tvg-id="dummy-1133037" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="24/7 TV Shows",24/7 Samurai-shinobi
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1537061.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="3 Body Proplem" group-title="International",3 Body Proplem
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1597973.ts
@@ -6085,9 +6085,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/696316.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1537060.ts
 #EXTINF:0 CUID="1133038" tvg-name="365blk" tvg-id="365blk.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="International",365blk
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1537060.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/3abnkidsnetwork.png" tvg-name="3abn Network (KIDS)" group-title="Kids",3abn Network (KIDS)
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/3abnkidsnetwork.png" tvg-name="3abn Network (KIDS)" group-title="24/7 TV Shows",3abn Network (KIDS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/324986.ts
-#EXTINF:0 CUID="69171" tvg-name="3abn Network (KIDS)" tvg-id="3abndaretodream.us" tvg-logo="https://logo.m3uassets.com/3abnkidsnetwork.png" group-title="Kids",3abn Network (KIDS)
+#EXTINF:0 CUID="69171" tvg-name="3abn Network (KIDS)" tvg-id="3abndaretodream.us" tvg-logo="https://logo.m3uassets.com/3abnkidsnetwork.png" group-title="24/7 TV Shows",3abn Network (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/324986.ts
 #EXTINF:0 CUID="891024" tvg-name="3abn Praise Him Music Network HD" tvg-logo="https://logo.m3uassets.com/3abnpraisehimmusicnetwork.png" group-title="International",3abn Praise Him Music Network HD
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/899655.ts
@@ -9349,13 +9349,13 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013598.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599533.ts
 #EXTINF:0 CUID="1712688" tvg-name="Anne" tvg-id="dummy-1712688" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Anne
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599533.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Anne An E (WITH)" group-title="International",Anne An E (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Anne An E (WITH)" group-title="24/7 TV Shows",Anne An E (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1597964.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Anne An E (WITH)" group-title="International",Anne An E (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Anne An E (WITH)" group-title="24/7 TV Shows",Anne An E (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/696297.ts
-#EXTINF:0 CUID="1708161" tvg-name="Anne An E (WITH)" tvg-id="dummy-1708161" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Anne An E (WITH)
+#EXTINF:0 CUID="1708161" tvg-name="Anne An E (WITH)" tvg-id="dummy-1708161" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Anne An E (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1597964.ts
-#EXTINF:0 CUID="1713850" tvg-name="Anne An E (WITH)" tvg-id="dummy-1713850" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Anne An E (WITH)
+#EXTINF:0 CUID="1713850" tvg-name="Anne An E (WITH)" tvg-id="dummy-1713850" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Anne An E (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/696297.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Anne Of Green Gables" group-title="International",Anne Of Green Gables
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599532.ts
@@ -9783,17 +9783,17 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1556136.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/659306.ts
 #EXTINF:0 CUID="2193565" tvg-name="Astro Sports Preimer League" tvg-id="397396" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Astro%20Sports%20UHD.png?raw=true" group-title="International",Astro Sports Preimer League
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/659305.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/athomewithfamilyhandyman.png" tvg-name="At Home Family Handyman (WITH)" group-title="International",At Home Family Handyman (WITH)
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/athomewithfamilyhandyman.png" tvg-name="At Home Family Handyman (WITH)" group-title="24/7 TV Shows",At Home Family Handyman (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1568865.ts
-#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="At Home Family Handyman (WITH)" group-title="International",At Home Family Handyman (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="At Home Family Handyman (WITH)" group-title="24/7 TV Shows",At Home Family Handyman (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536975.ts
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="At Home Family Handyman (WITH)" group-title="International",At Home Family Handyman (WITH)
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="At Home Family Handyman (WITH)" group-title="24/7 TV Shows",At Home Family Handyman (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476568.ts
-#EXTINF:0 CUID="1542939" tvg-name="At Home Family Handyman (WITH)" tvg-id="homewithfamilyhandyman.us" tvg-logo="https://logo.m3uassets.com/athomewithfamilyhandyman.png" group-title="International",At Home Family Handyman (WITH)
+#EXTINF:0 CUID="1542939" tvg-name="At Home Family Handyman (WITH)" tvg-id="homewithfamilyhandyman.us" tvg-logo="https://logo.m3uassets.com/athomewithfamilyhandyman.png" group-title="24/7 TV Shows",At Home Family Handyman (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1568865.ts
-#EXTINF:0 CUID="1133123" tvg-name="At Home Family Handyman (WITH)" tvg-id="homewithfamilyhandyman.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="International",At Home Family Handyman (WITH)
+#EXTINF:0 CUID="1133123" tvg-name="At Home Family Handyman (WITH)" tvg-id="homewithfamilyhandyman.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="24/7 TV Shows",At Home Family Handyman (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536975.ts
-#EXTINF:0 CUID="1714161" tvg-name="At Home Family Handyman (WITH)" tvg-id="dummy-1714161" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="International",At Home Family Handyman (WITH)
+#EXTINF:0 CUID="1714161" tvg-name="At Home Family Handyman (WITH)" tvg-id="dummy-1714161" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="24/7 TV Shows",At Home Family Handyman (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476568.ts
 #EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="At The Movies" group-title="24/7 Movies",At The Movies
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536974.ts
@@ -10903,9 +10903,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599086.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600613.ts
 #EXTINF:0 CUID="1745325" tvg-name="Bajillionaires" tvg-id="dummy-1745325" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Bajillionaires
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600613.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Bakeaway Camp Martha Stewart (WITH)" group-title="International",Bakeaway Camp Martha Stewart (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Bakeaway Camp Martha Stewart (WITH)" group-title="24/7 TV Shows",Bakeaway Camp Martha Stewart (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600802.ts
-#EXTINF:0 CUID="1745162" tvg-name="Bakeaway Camp Martha Stewart (WITH)" tvg-id="dummy-1745162" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Bakeaway Camp Martha Stewart (WITH)
+#EXTINF:0 CUID="1745162" tvg-name="Bakeaway Camp Martha Stewart (WITH)" tvg-id="dummy-1745162" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Bakeaway Camp Martha Stewart (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600802.ts
 #EXTINF:0 CUID="1242693" tvg-name="Bali Tv" tvg-id="dummy-1242693" tvg-logo="https://logo.m3uassets.com/balitv.png" group-title="International",Bali Tv
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1541209.ts
@@ -12123,17 +12123,17 @@ http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/696273.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599516.ts
 #EXTINF:0 CUID="1713874" tvg-name="Bitten" tvg-id="dummy-1713874" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Bitten
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/696273.ts
-#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14545.PNG?ver=52669" tvg-name="Bizarre Foods Andrew Zimmern (WITH)" group-title="International",Bizarre Foods Andrew Zimmern (WITH)
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14545.PNG?ver=52669" tvg-name="Bizarre Foods Andrew Zimmern (WITH)" group-title="24/7 TV Shows",Bizarre Foods Andrew Zimmern (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1568850.ts
-#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Bizarre Foods Andrew Zimmern (WITH)" group-title="International",Bizarre Foods Andrew Zimmern (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Bizarre Foods Andrew Zimmern (WITH)" group-title="24/7 TV Shows",Bizarre Foods Andrew Zimmern (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536948.ts
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="Bizarre Foods Andrew Zimmern (WITH)" group-title="International",Bizarre Foods Andrew Zimmern (WITH)
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="Bizarre Foods Andrew Zimmern (WITH)" group-title="24/7 TV Shows",Bizarre Foods Andrew Zimmern (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476544.ts
-#EXTINF:0 CUID="1542954" tvg-name="Bizarre Foods Andrew Zimmern (WITH)" tvg-id="dummy-1542954" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="International",Bizarre Foods Andrew Zimmern (WITH)
+#EXTINF:0 CUID="1542954" tvg-name="Bizarre Foods Andrew Zimmern (WITH)" tvg-id="dummy-1542954" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="24/7 TV Shows",Bizarre Foods Andrew Zimmern (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1568850.ts
-#EXTINF:0 CUID="1133150" tvg-name="Bizarre Foods Andrew Zimmern (WITH)" tvg-id="dummy-1133150" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="International",Bizarre Foods Andrew Zimmern (WITH)
+#EXTINF:0 CUID="1133150" tvg-name="Bizarre Foods Andrew Zimmern (WITH)" tvg-id="dummy-1133150" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="24/7 TV Shows",Bizarre Foods Andrew Zimmern (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536948.ts
-#EXTINF:0 CUID="1714185" tvg-name="Bizarre Foods Andrew Zimmern (WITH)" tvg-id="dummy-1714185" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="International",Bizarre Foods Andrew Zimmern (WITH)
+#EXTINF:0 CUID="1714185" tvg-name="Bizarre Foods Andrew Zimmern (WITH)" tvg-id="dummy-1714185" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="24/7 TV Shows",Bizarre Foods Andrew Zimmern (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476544.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Bj & The Bear" group-title="International",Bj & The Bear
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600914.ts
@@ -12369,9 +12369,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/696266.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599511.ts
 #EXTINF:0 CUID="1712710" tvg-name="Bluey" tvg-id="dummy-1712710" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Bluey
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599511.ts
-#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/MISC/Bluey.png?raw=true" tvg-name="Bluey 24/7" group-title="International",Bluey 24/7
+#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/MISC/Bluey.png?raw=true" tvg-name="Bluey 24/7" group-title="24/7 TV Shows",Bluey 24/7
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/696265.ts
-#EXTINF:0 CUID="977376" tvg-name="Bluey 24/7" tvg-id="dummy-977376" tvg-logo="https://github.com/K-yzu/Logos/blob/main/MISC/Bluey.png?raw=true" group-title="International",Bluey 24/7
+#EXTINF:0 CUID="977376" tvg-name="Bluey 24/7" tvg-id="dummy-977376" tvg-logo="https://github.com/K-yzu/Logos/blob/main/MISC/Bluey.png?raw=true" group-title="24/7 TV Shows",Bluey 24/7
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/696265.ts
 #EXTINF:0 CUID="844566" tvg-name="BNN Bloomberg" tvg-id="bnn.ca" tvg-logo="https://logo.m3uassets.com/bnnbloomberg.png" group-title="News",BNN Bloomberg
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/498787.ts
@@ -15469,9 +15469,9 @@ http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/325064.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/325064.ts
 #EXTINF:0 CUID="3122" tvg-name="Chicago White Sox" tvg-id="ChicagoWhiteSox.mlb" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/MLB%20Teams/American/Chicago%20White%20Sox.png?raw=true" group-title="International",Chicago White Sox
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1904200.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Chico Bon Bon Monkey A Tool Belt (WITH)" group-title="International",Chico Bon Bon Monkey A Tool Belt (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Chico Bon Bon Monkey A Tool Belt (WITH)" group-title="24/7 TV Shows",Chico Bon Bon Monkey A Tool Belt (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599059.ts
-#EXTINF:0 CUID="1713162" tvg-name="Chico Bon Bon Monkey A Tool Belt (WITH)" tvg-id="dummy-1713162" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Chico Bon Bon Monkey A Tool Belt (WITH)
+#EXTINF:0 CUID="1713162" tvg-name="Chico Bon Bon Monkey A Tool Belt (WITH)" tvg-id="dummy-1713162" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Chico Bon Bon Monkey A Tool Belt (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599059.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Childhoods End" group-title="International",Childhoods End
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599058.ts
@@ -16523,9 +16523,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599987.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599986.ts
 #EXTINF:0 CUID="1721349" tvg-name="Cocomelon Shapes & Colors & Music" tvg-id="dummy-1721349" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Cocomelon Shapes & Colors & Music
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599986.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Codename: Next Door (KIDS)" group-title="Kids",Codename: Next Door (KIDS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Codename: Next Door (KIDS)" group-title="24/7 TV Shows",Codename: Next Door (KIDS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599985.ts
-#EXTINF:0 CUID="1721350" tvg-name="Codename: Next Door (KIDS)" tvg-id="dummy-1721350" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="Kids",Codename: Next Door (KIDS)
+#EXTINF:0 CUID="1721350" tvg-name="Codename: Next Door (KIDS)" tvg-id="dummy-1721350" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Codename: Next Door (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599985.ts
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20220910%2Foriginal%2Fpngtree-selamat-hari-radio-elektronik-white-putih-modern-design-png-image_8529792.png&f=1&nofb=1&ipt=026a704ba1370191b0addb9a826c52ce042603247cbfd97de94e0c11f0cf1452" tvg-name="Coffee Shop Favorites" group-title="International",Coffee Shop Favorites
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1832630.ts
@@ -16587,17 +16587,17 @@ http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1548274.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1548274.ts
 #EXTINF:0 CUID="2911" tvg-name="Columbus Blue Jackets" tvg-id="ColumbusBlueJackets.nhl" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/NHL%20Teams/Eastern/Columbus%20Blue%20Jackets.png?raw=true" group-title="International",Columbus Blue Jackets
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/604285.ts
-#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Combat Channel (WAR)" group-title="Sports: Combat",Combat Channel (WAR)
+#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Combat Channel (WAR)" group-title="24/7 TV Shows",Combat Channel (WAR)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536868.ts
-#EXTINF:0 CUID="1133230" tvg-name="Combat Channel (WAR)" tvg-id="combatwarchannel.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="Sports: Combat",Combat Channel (WAR)
+#EXTINF:0 CUID="1133230" tvg-name="Combat Channel (WAR)" tvg-id="combatwarchannel.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="24/7 TV Shows",Combat Channel (WAR)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536868.ts
-#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Come Dine (WITH)" group-title="International",Come Dine (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Come Dine (WITH)" group-title="24/7 TV Shows",Come Dine (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536867.ts
-#EXTINF:0 CUID="1133231" tvg-name="Come Dine (WITH)" tvg-id="dummy-1133231" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="International",Come Dine (WITH)
+#EXTINF:0 CUID="1133231" tvg-name="Come Dine (WITH)" tvg-id="dummy-1133231" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="24/7 TV Shows",Come Dine (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536867.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Comedy 24/7" group-title="Entertainment",Comedy 24/7
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Comedy 24/7" group-title="24/7 TV Shows",Comedy 24/7
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/998530.ts
-#EXTINF:0 CUID="891158" tvg-name="Comedy 24/7" tvg-id="dummy-891158" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="Entertainment",Comedy 24/7
+#EXTINF:0 CUID="891158" tvg-name="Comedy 24/7" tvg-id="dummy-891158" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Comedy 24/7
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/998530.ts
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/comedycentral.png" tvg-name="Comedy Central" group-title="Entertainment",Comedy Central
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/325781.ts
@@ -17811,31 +17811,31 @@ http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1601018.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1601019.ts
 #EXTINF:0 CUID="1744946" tvg-name="Darkwing Duck" tvg-id="dummy-1744946" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Darkwing Duck
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1601018.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/dateline247.png" tvg-name="Dateline 24/7" group-title="International",Dateline 24/7
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/dateline247.png" tvg-name="Dateline 24/7" group-title="24/7 TV Shows",Dateline 24/7
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1568816.ts
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcommerce.nbcuni.com%2Fpublic%2Fstrapi-smart-microsite-uploads%2FPeacock_logo_high_050c0fd152.png&f=1&nofb=1&ipt=4db336ea278cd885e32cd6cd5fe923354130c061821d67569e13f302aeee1c77" tvg-name="Dateline 24/7" group-title="International",Dateline 24/7
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcommerce.nbcuni.com%2Fpublic%2Fstrapi-smart-microsite-uploads%2FPeacock_logo_high_050c0fd152.png&f=1&nofb=1&ipt=4db336ea278cd885e32cd6cd5fe923354130c061821d67569e13f302aeee1c77" tvg-name="Dateline 24/7" group-title="24/7 TV Shows",Dateline 24/7
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1520134.ts
-#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Dateline 24/7" group-title="International",Dateline 24/7
+#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Dateline 24/7" group-title="24/7 TV Shows",Dateline 24/7
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536845.ts
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="Dateline 24/7" group-title="International",Dateline 24/7
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="Dateline 24/7" group-title="24/7 TV Shows",Dateline 24/7
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476464.ts
-#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/Tubi.png?raw=true" tvg-name="Dateline 24/7" group-title="International",Dateline 24/7
+#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/Tubi.png?raw=true" tvg-name="Dateline 24/7" group-title="24/7 TV Shows",Dateline 24/7
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1548380.ts
-#EXTINF:0 CUID="1542988" tvg-name="Dateline 24/7" tvg-id="dateline.us" tvg-logo="https://logo.m3uassets.com/dateline247.png" group-title="International",Dateline 24/7
+#EXTINF:0 CUID="1542988" tvg-name="Dateline 24/7" tvg-id="dateline.us" tvg-logo="https://logo.m3uassets.com/dateline247.png" group-title="24/7 TV Shows",Dateline 24/7
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1568816.ts
-#EXTINF:0 CUID="1613470" tvg-name="Dateline 24/7" tvg-id="dateline.us" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcommerce.nbcuni.com%2Fpublic%2Fstrapi-smart-microsite-uploads%2FPeacock_logo_high_050c0fd152.png&f=1&nofb=1&ipt=4db336ea278cd885e32cd6cd5fe923354130c061821d67569e13f302aeee1c77" group-title="International",Dateline 24/7
+#EXTINF:0 CUID="1613470" tvg-name="Dateline 24/7" tvg-id="dateline.us" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcommerce.nbcuni.com%2Fpublic%2Fstrapi-smart-microsite-uploads%2FPeacock_logo_high_050c0fd152.png&f=1&nofb=1&ipt=4db336ea278cd885e32cd6cd5fe923354130c061821d67569e13f302aeee1c77" group-title="24/7 TV Shows",Dateline 24/7
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1520134.ts
-#EXTINF:0 CUID="1133253" tvg-name="Dateline 24/7" tvg-id="dateline.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="International",Dateline 24/7
+#EXTINF:0 CUID="1133253" tvg-name="Dateline 24/7" tvg-id="dateline.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="24/7 TV Shows",Dateline 24/7
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536845.ts
-#EXTINF:0 CUID="1714265" tvg-name="Dateline 24/7" tvg-id="dummy-1714265" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="International",Dateline 24/7
+#EXTINF:0 CUID="1714265" tvg-name="Dateline 24/7" tvg-id="dummy-1714265" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="24/7 TV Shows",Dateline 24/7
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476464.ts
-#EXTINF:0 CUID="1292005" tvg-name="Dateline 24/7" tvg-id="711410" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/Tubi.png?raw=true" group-title="International",Dateline 24/7
+#EXTINF:0 CUID="1292005" tvg-name="Dateline 24/7" tvg-id="711410" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/Tubi.png?raw=true" group-title="24/7 TV Shows",Dateline 24/7
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1548380.ts
-#EXTINF:0 CUID="1148146" tvg-name="Dateline 24/7" tvg-id="dummy-1148146" tvg-logo="https://logo.m3uassets.com/dateline247.png" group-title="International",Dateline 24/7
+#EXTINF:0 CUID="1148146" tvg-name="Dateline 24/7" tvg-id="dummy-1148146" tvg-logo="https://logo.m3uassets.com/dateline247.png" group-title="24/7 TV Shows",Dateline 24/7
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1537473.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/dateline247.png" tvg-name="Dateline 24/7 F2" group-title="International",Dateline 24/7 F2
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/dateline247.png" tvg-name="Dateline 24/7 F2" group-title="24/7 TV Shows",Dateline 24/7 F2
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1819952.ts
-#EXTINF:0 CUID="3169522" tvg-name="Dateline 24/7 F2" tvg-id="dateline.us" tvg-logo="https://logo.m3uassets.com/dateline247.png" group-title="International",Dateline 24/7 F2
+#EXTINF:0 CUID="3169522" tvg-name="Dateline 24/7 F2" tvg-id="dateline.us" tvg-logo="https://logo.m3uassets.com/dateline247.png" group-title="24/7 TV Shows",Dateline 24/7 F2
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1819952.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Dating Around" group-title="International",Dating Around
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600782.ts
@@ -18243,9 +18243,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1548377.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599492.ts
 #EXTINF:0 CUID="1712729" tvg-name="Defiance" tvg-id="dummy-1712729" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Defiance
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599492.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Defining Moments Ozy (WITH)" group-title="International",Defining Moments Ozy (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Defining Moments Ozy (WITH)" group-title="24/7 TV Shows",Defining Moments Ozy (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599023.ts
-#EXTINF:0 CUID="1713198" tvg-name="Defining Moments Ozy (WITH)" tvg-id="dummy-1713198" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Defining Moments Ozy (WITH)
+#EXTINF:0 CUID="1713198" tvg-name="Defining Moments Ozy (WITH)" tvg-id="dummy-1713198" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Defining Moments Ozy (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599023.ts
 #EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Degrassi" group-title="International",Degrassi
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536840.ts
@@ -18505,13 +18505,13 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1562917.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/696216.ts
 #EXTINF:0 CUID="1713931" tvg-name="Diners Drive-ins & Dives" tvg-id="dummy-1713931" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Diners Drive-ins & Dives
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/696216.ts
-#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Dinos 24/7" group-title="International",Dinos 24/7
+#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Dinos 24/7" group-title="24/7 TV Shows",Dinos 24/7
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536838.ts
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="Dinos 24/7" group-title="International",Dinos 24/7
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="Dinos 24/7" group-title="24/7 TV Shows",Dinos 24/7
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476458.ts
-#EXTINF:0 CUID="1133260" tvg-name="Dinos 24/7" tvg-id="dummy-1133260" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="International",Dinos 24/7
+#EXTINF:0 CUID="1133260" tvg-name="Dinos 24/7" tvg-id="dummy-1133260" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="24/7 TV Shows",Dinos 24/7
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536838.ts
-#EXTINF:0 CUID="1714271" tvg-name="Dinos 24/7" tvg-id="dummy-1714271" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="International",Dinos 24/7
+#EXTINF:0 CUID="1714271" tvg-name="Dinos 24/7" tvg-id="dummy-1714271" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="24/7 TV Shows",Dinos 24/7
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476458.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Dinosaurs" group-title="International",Dinosaurs
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/696215.ts
@@ -18693,13 +18693,13 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1537350.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599976.ts
 #EXTINF:0 CUID="1721359" tvg-name="Disney Family Sundays" tvg-id="dummy-1721359" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="Kids",Disney Family Sundays
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599976.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Disney Gallery Star The Mandalorian (WARS)" group-title="Kids",Disney Gallery Star The Mandalorian (WARS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Disney Gallery Star The Mandalorian (WARS)" group-title="24/7 TV Shows",Disney Gallery Star The Mandalorian (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599013.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Disney Gallery Star The Mandalorian (WARS)" group-title="Kids",Disney Gallery Star The Mandalorian (WARS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Disney Gallery Star The Mandalorian (WARS)" group-title="24/7 TV Shows",Disney Gallery Star The Mandalorian (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599012.ts
-#EXTINF:0 CUID="1713208" tvg-name="Disney Gallery Star The Mandalorian (WARS)" tvg-id="dummy-1713208" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="Kids",Disney Gallery Star The Mandalorian (WARS)
+#EXTINF:0 CUID="1713208" tvg-name="Disney Gallery Star The Mandalorian (WARS)" tvg-id="dummy-1713208" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Disney Gallery Star The Mandalorian (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599013.ts
-#EXTINF:0 CUID="1713209" tvg-name="Disney Gallery Star The Mandalorian (WARS)" tvg-id="dummy-1713209" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="Kids",Disney Gallery Star The Mandalorian (WARS)
+#EXTINF:0 CUID="1713209" tvg-name="Disney Gallery Star The Mandalorian (WARS)" tvg-id="dummy-1713209" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Disney Gallery Star The Mandalorian (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599012.ts
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20220910%2Foriginal%2Fpngtree-selamat-hari-radio-elektronik-white-putih-modern-design-png-image_8529792.png&f=1&nofb=1&ipt=026a704ba1370191b0addb9a826c52ce042603247cbfd97de94e0c11f0cf1452" tvg-name="Disney Hits" group-title="Kids",Disney Hits
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1832581.ts
@@ -18771,9 +18771,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/162230.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1568806.ts
 #EXTINF:0 CUID="844699" tvg-name="Disney XD Usa" tvg-id="disneyxd.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/Disney%20XD%20HD.png?raw=true" group-title="Kids",Disney XD Usa
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1568806.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Disney+ (KIDS)" group-title="Kids",Disney+ (KIDS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Disney+ (KIDS)" group-title="24/7 TV Shows",Disney+ (KIDS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013631.ts
-#EXTINF:0 CUID="1714952" tvg-name="Disney+ (KIDS)" tvg-id="dummy-1714952" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="Kids",Disney+ (KIDS)
+#EXTINF:0 CUID="1714952" tvg-name="Disney+ (KIDS)" tvg-id="dummy-1714952" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Disney+ (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013631.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Disney+ Classic" group-title="Kids",Disney+ Classic
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013629.ts
@@ -18931,9 +18931,9 @@ http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536836.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1568805.ts
 #EXTINF:0 CUID="1133262" tvg-name="Documentary+" tvg-id="documentary+.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="Documentary",Documentary+
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536836.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Dog A Blog (WITH)" group-title="International",Dog A Blog (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Dog A Blog (WITH)" group-title="24/7 TV Shows",Dog A Blog (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600544.ts
-#EXTINF:0 CUID="1745394" tvg-name="Dog A Blog (WITH)" tvg-id="dummy-1745394" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Dog A Blog (WITH)
+#EXTINF:0 CUID="1745394" tvg-name="Dog A Blog (WITH)" tvg-id="dummy-1745394" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Dog A Blog (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600544.ts
 #EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Dog The Bounty Hunter" group-title="International",Dog The Bounty Hunter
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536835.ts
@@ -21521,9 +21521,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1832695.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599460.ts
 #EXTINF:0 CUID="1712761" tvg-name="Felicity" tvg-id="dummy-1712761" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Felicity
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599460.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Ferrell (WILL)" group-title="International",Ferrell (WILL)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Ferrell (WILL)" group-title="24/7 TV Shows",Ferrell (WILL)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013463.ts
-#EXTINF:0 CUID="1715121" tvg-name="Ferrell (WILL)" tvg-id="dummy-1715121" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Ferrell (WILL)
+#EXTINF:0 CUID="1715121" tvg-name="Ferrell (WILL)" tvg-id="dummy-1715121" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Ferrell (WILL)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013463.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Ferrell Movies (WILL)" group-title="24/7 Movies",Ferrell Movies (WILL)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013396.ts
@@ -23587,13 +23587,13 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013437.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600892.ts
 #EXTINF:0 CUID="1713964" tvg-name="Friends" tvg-id="dummy-1713964" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Friends
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/696183.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Friends Benefits (WITH)" group-title="International",Friends Benefits (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Friends Benefits (WITH)" group-title="24/7 TV Shows",Friends Benefits (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599447.ts
-#EXTINF:0 CUID="1712774" tvg-name="Friends Benefits (WITH)" tvg-id="dummy-1712774" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Friends Benefits (WITH)
+#EXTINF:0 CUID="1712774" tvg-name="Friends Benefits (WITH)" tvg-id="dummy-1712774" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Friends Benefits (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599447.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Friends Better Lives (WITH)" group-title="International",Friends Better Lives (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Friends Better Lives (WITH)" group-title="24/7 TV Shows",Friends Better Lives (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600513.ts
-#EXTINF:0 CUID="1745425" tvg-name="Friends Better Lives (WITH)" tvg-id="dummy-1745425" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Friends Better Lives (WITH)
+#EXTINF:0 CUID="1745425" tvg-name="Friends Better Lives (WITH)" tvg-id="dummy-1745425" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Friends Better Lives (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600513.ts
 #EXTINF:0 CUID="844604" tvg-name="Frisson" tvg-id="frissonstv.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Frissons_TV_New.png" group-title="International",Frisson
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/412944.ts
@@ -23979,17 +23979,17 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1601177.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599442.ts
 #EXTINF:0 CUID="1712779" tvg-name="Gap Year" tvg-id="dummy-1712779" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Gap Year
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599442.ts
-#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Gardening Monty Don (WITH)" group-title="International",Gardening Monty Don (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Gardening Monty Don (WITH)" group-title="24/7 TV Shows",Gardening Monty Don (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536750.ts
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="Gardening Monty Don (WITH)" group-title="International",Gardening Monty Don (WITH)
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="Gardening Monty Don (WITH)" group-title="24/7 TV Shows",Gardening Monty Don (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476378.ts
-#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/Tubi.png?raw=true" tvg-name="Gardening Monty Don (WITH)" group-title="International",Gardening Monty Don (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/Tubi.png?raw=true" tvg-name="Gardening Monty Don (WITH)" group-title="24/7 TV Shows",Gardening Monty Don (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1548352.ts
-#EXTINF:0 CUID="1133348" tvg-name="Gardening Monty Don (WITH)" tvg-id="700407" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="International",Gardening Monty Don (WITH)
+#EXTINF:0 CUID="1133348" tvg-name="Gardening Monty Don (WITH)" tvg-id="700407" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="24/7 TV Shows",Gardening Monty Don (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536750.ts
-#EXTINF:0 CUID="1714351" tvg-name="Gardening Monty Don (WITH)" tvg-id="dummy-1714351" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="International",Gardening Monty Don (WITH)
+#EXTINF:0 CUID="1714351" tvg-name="Gardening Monty Don (WITH)" tvg-id="dummy-1714351" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="24/7 TV Shows",Gardening Monty Don (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476378.ts
-#EXTINF:0 CUID="1292033" tvg-name="Gardening Monty Don (WITH)" tvg-id="700407" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/Tubi.png?raw=true" group-title="International",Gardening Monty Don (WITH)
+#EXTINF:0 CUID="1292033" tvg-name="Gardening Monty Don (WITH)" tvg-id="700407" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/Tubi.png?raw=true" group-title="24/7 TV Shows",Gardening Monty Don (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1548352.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Gardians Of The Galaxy" group-title="International",Gardians Of The Galaxy
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013609.ts
@@ -25029,13 +25029,13 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013519.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/607464.ts
 #EXTINF:0 CUID="1242729" tvg-name="Hanacaraka Tv" tvg-id="dummy-1242729" tvg-logo="https://logo.m3uassets.com/charanatv.png" group-title="International",Hanacaraka Tv
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1541173.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Hangin Mr. Cooper (WITH)" group-title="International",Hangin Mr. Cooper (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Hangin Mr. Cooper (WITH)" group-title="24/7 TV Shows",Hangin Mr. Cooper (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600885.ts
-#EXTINF:0 CUID="1745079" tvg-name="Hangin Mr. Cooper (WITH)" tvg-id="dummy-1745079" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Hangin Mr. Cooper (WITH)
+#EXTINF:0 CUID="1745079" tvg-name="Hangin Mr. Cooper (WITH)" tvg-id="dummy-1745079" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Hangin Mr. Cooper (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600885.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Hanging The Hendersons (WITH)" group-title="International",Hanging The Hendersons (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Hanging The Hendersons (WITH)" group-title="24/7 TV Shows",Hanging The Hendersons (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598951.ts
-#EXTINF:0 CUID="1713270" tvg-name="Hanging The Hendersons (WITH)" tvg-id="dummy-1713270" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Hanging The Hendersons (WITH)
+#EXTINF:0 CUID="1713270" tvg-name="Hanging The Hendersons (WITH)" tvg-id="dummy-1713270" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Hanging The Hendersons (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598951.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Hanna" group-title="International",Hanna
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1601006.ts
@@ -25205,9 +25205,9 @@ http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1548345.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536727.ts
 #EXTINF:0 CUID="1292040" tvg-name="Haunttv" tvg-id="700406" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/Tubi.png?raw=true" group-title="International",Haunttv
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1548345.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Have Gun Travel (WILL)" group-title="Entertainment",Have Gun Travel (WILL)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Have Gun Travel (WILL)" group-title="24/7 TV Shows",Have Gun Travel (WILL)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600883.ts
-#EXTINF:0 CUID="1745081" tvg-name="Have Gun Travel (WILL)" tvg-id="dummy-1745081" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="Entertainment",Have Gun Travel (WILL)
+#EXTINF:0 CUID="1745081" tvg-name="Have Gun Travel (WILL)" tvg-id="dummy-1745081" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Have Gun Travel (WILL)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600883.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Have I Got News For You" group-title="News",Have I Got News For You
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600476.ts
@@ -26051,13 +26051,13 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536702.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476346.ts
 #EXTINF:0 CUID="1292045" tvg-name="How To" tvg-id="715952" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/Tubi.png?raw=true" group-title="Documentary",How To
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1548340.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="How To Get Away Murder (WITH)" group-title="Documentary",How To Get Away Murder (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="How To Get Away Murder (WITH)" group-title="24/7 TV Shows",How To Get Away Murder (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600168.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="How To Get Away Murder (WITH)" group-title="Documentary",How To Get Away Murder (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="How To Get Away Murder (WITH)" group-title="24/7 TV Shows",How To Get Away Murder (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600167.ts
-#EXTINF:0 CUID="1745769" tvg-name="How To Get Away Murder (WITH)" tvg-id="dummy-1745769" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="Documentary",How To Get Away Murder (WITH)
+#EXTINF:0 CUID="1745769" tvg-name="How To Get Away Murder (WITH)" tvg-id="dummy-1745769" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",How To Get Away Murder (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600168.ts
-#EXTINF:0 CUID="1745770" tvg-name="How To Get Away Murder (WITH)" tvg-id="dummy-1745770" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="Documentary",How To Get Away Murder (WITH)
+#EXTINF:0 CUID="1745770" tvg-name="How To Get Away Murder (WITH)" tvg-id="dummy-1745770" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",How To Get Away Murder (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600167.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="How To Survive Being Single" group-title="Documentary",How To Survive Being Single
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598931.ts
@@ -26267,13 +26267,13 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1500888.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1835444.ts
 #EXTINF:0 CUID="3458402" tvg-name="Hyper Knife" tvg-id="dummy-3458402" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Hyper Knife
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1835444.ts
-#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14545.PNG?ver=52669" tvg-name="I Almost Got Away It (WITH)" group-title="International",I Almost Got Away It (WITH)
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14545.PNG?ver=52669" tvg-name="I Almost Got Away It (WITH)" group-title="24/7 TV Shows",I Almost Got Away It (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1568741.ts
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="I Almost Got Away It (WITH)" group-title="International",I Almost Got Away It (WITH)
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="I Almost Got Away It (WITH)" group-title="24/7 TV Shows",I Almost Got Away It (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476344.ts
-#EXTINF:0 CUID="1543063" tvg-name="I Almost Got Away It (WITH)" tvg-id="dummy-1543063" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="International",I Almost Got Away It (WITH)
+#EXTINF:0 CUID="1543063" tvg-name="I Almost Got Away It (WITH)" tvg-id="dummy-1543063" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="24/7 TV Shows",I Almost Got Away It (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1568741.ts
-#EXTINF:0 CUID="1714385" tvg-name="I Almost Got Away It (WITH)" tvg-id="dummy-1714385" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="International",I Almost Got Away It (WITH)
+#EXTINF:0 CUID="1714385" tvg-name="I Almost Got Away It (WITH)" tvg-id="dummy-1714385" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="24/7 TV Shows",I Almost Got Away It (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476344.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="I Am Frankie" group-title="International",I Am Frankie
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598928.ts
@@ -26287,9 +26287,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598927.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598926.ts
 #EXTINF:0 CUID="1713295" tvg-name="I Am Not A Robot" tvg-id="dummy-1713295" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",I Am Not A Robot
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598926.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="I Am Not Okay This (WITH)" group-title="International",I Am Not Okay This (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="I Am Not Okay This (WITH)" group-title="24/7 TV Shows",I Am Not Okay This (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599398.ts
-#EXTINF:0 CUID="1712823" tvg-name="I Am Not Okay This (WITH)" tvg-id="dummy-1712823" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",I Am Not Okay This (WITH)
+#EXTINF:0 CUID="1712823" tvg-name="I Am Not Okay This (WITH)" tvg-id="dummy-1712823" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",I Am Not Okay This (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599398.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="I Am The Night" group-title="International",I Am The Night
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600166.ts
@@ -26315,9 +26315,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536697.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600215.ts
 #EXTINF:0 CUID="1745723" tvg-name="I Like About You (WHAT)" tvg-id="dummy-1745723" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",I Like About You (WHAT)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600215.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="I Live Models (WITH)" group-title="International",I Live Models (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="I Live Models (WITH)" group-title="24/7 TV Shows",I Live Models (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600461.ts
-#EXTINF:0 CUID="1745477" tvg-name="I Live Models (WITH)" tvg-id="dummy-1745477" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",I Live Models (WITH)
+#EXTINF:0 CUID="1745477" tvg-name="I Live Models (WITH)" tvg-id="dummy-1745477" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",I Live Models (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600461.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="I Ll Be Gone The Dark" group-title="International",I Ll Be Gone The Dark
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598922.ts
@@ -26389,9 +26389,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1568740.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/630318.ts
 #EXTINF:0 CUID="3860446" tvg-name="I24 News Israel News" tvg-id="dummy-3860446" catchup-type="xc" catchup-days="3" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1.bp.blogspot.com%2F-FX_dLiMnc9g%2FVZ85oLpGxEI%2FAAAAAAAADUM%2FQnVeinwINkg%2Fs1600%2Fi_24_news_il.png&f=1&nofb=1&ipt=c4a5ec1bc30811029359cbf5aaeb981e5b5cf657cae47d1329c98c33b91bf217" group-title="International",I24 News Israel News
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/630318.ts
-#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Ialmost Got Away It (WITH)" group-title="International",Ialmost Got Away It (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Ialmost Got Away It (WITH)" group-title="24/7 TV Shows",Ialmost Got Away It (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536698.ts
-#EXTINF:0 CUID="1133400" tvg-name="Ialmost Got Away It (WITH)" tvg-id="dummy-1133400" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="International",Ialmost Got Away It (WITH)
+#EXTINF:0 CUID="1133400" tvg-name="Ialmost Got Away It (WITH)" tvg-id="dummy-1133400" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="24/7 TV Shows",Ialmost Got Away It (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536698.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Ice Age" group-title="International",Ice Age
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013485.ts
@@ -26613,9 +26613,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1834986.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598918.ts
 #EXTINF:0 CUID="1713303" tvg-name="Im Dying Up Here" tvg-id="dummy-1713303" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Im Dying Up Here
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598918.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Im The Band Nasty Cherry (WITH)" group-title="International",Im The Band Nasty Cherry (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Im The Band Nasty Cherry (WITH)" group-title="24/7 TV Shows",Im The Band Nasty Cherry (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598915.ts
-#EXTINF:0 CUID="1713306" tvg-name="Im The Band Nasty Cherry (WITH)" tvg-id="dummy-1713306" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Im The Band Nasty Cherry (WITH)
+#EXTINF:0 CUID="1713306" tvg-name="Im The Band Nasty Cherry (WITH)" tvg-id="dummy-1713306" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Im The Band Nasty Cherry (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598915.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Imaginary Mary" group-title="International",Imaginary Mary
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600457.ts
@@ -26663,9 +26663,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/696143.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599393.ts
 #EXTINF:0 CUID="1712828" tvg-name="In Plain Sight" tvg-id="dummy-1712828" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",In Plain Sight
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599393.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="In Pursuit John Walsh (WITH)" group-title="International",In Pursuit John Walsh (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="In Pursuit John Walsh (WITH)" group-title="24/7 TV Shows",In Pursuit John Walsh (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600165.ts
-#EXTINF:0 CUID="1745772" tvg-name="In Pursuit John Walsh (WITH)" tvg-id="dummy-1745772" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",In Pursuit John Walsh (WITH)
+#EXTINF:0 CUID="1745772" tvg-name="In Pursuit John Walsh (WITH)" tvg-id="dummy-1745772" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",In Pursuit John Walsh (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600165.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="In The Dark" group-title="International",In The Dark
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600164.ts
@@ -27139,7 +27139,7 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/162211.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/162212.ts
 #EXTINF:0 CUID="890294" tvg-name="ITV Yorkshire" tvg-id="itvyorkshire.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/ITV1%20HD.png?raw=true" group-title="International",ITV Yorkshire
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1173049.ts
-#EXTINF:0 CUID="891154" tvg-name="Itvx (KIDS)" tvg-id="dummy-891154" tvg-logo="https://logo.m3uassets.com/itvxkids.png" group-title="Kids",Itvx (KIDS)
+#EXTINF:0 CUID="891154" tvg-name="Itvx (KIDS)" tvg-id="dummy-891154" tvg-logo="https://logo.m3uassets.com/itvxkids.png" group-title="24/7 TV Shows",Itvx (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/998534.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Iwaju" group-title="International",Iwaju
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1835447.ts
@@ -27607,9 +27607,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476313.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/696136.ts
 #EXTINF:0 CUID="1714011" tvg-name="Just Good Friends" tvg-id="dummy-1714011" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Just Good Friends
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/696136.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Just Roll It (WITH)" group-title="International",Just Roll It (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Just Roll It (WITH)" group-title="24/7 TV Shows",Just Roll It (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600450.ts
-#EXTINF:0 CUID="1745488" tvg-name="Just Roll It (WITH)" tvg-id="dummy-1745488" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Just Roll It (WITH)
+#EXTINF:0 CUID="1745488" tvg-name="Just Roll It (WITH)" tvg-id="dummy-1745488" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Just Roll It (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600450.ts
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/justicecentral.png" tvg-name="Justice Central" group-title="International",Justice Central
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1568730.ts
@@ -27697,13 +27697,13 @@ http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/696135.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600448.ts
 #EXTINF:0 CUID="1714012" tvg-name="Keeping Up Appearances" tvg-id="dummy-1714012" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Keeping Up Appearances
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/696135.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Keeping Up The Kardashians (WITH)" group-title="International",Keeping Up The Kardashians (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Keeping Up The Kardashians (WITH)" group-title="24/7 TV Shows",Keeping Up The Kardashians (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600750.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Keeping Up The Kardashians (WITH)" group-title="International",Keeping Up The Kardashians (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Keeping Up The Kardashians (WITH)" group-title="24/7 TV Shows",Keeping Up The Kardashians (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/696134.ts
-#EXTINF:0 CUID="1745214" tvg-name="Keeping Up The Kardashians (WITH)" tvg-id="dummy-1745214" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Keeping Up The Kardashians (WITH)
+#EXTINF:0 CUID="1745214" tvg-name="Keeping Up The Kardashians (WITH)" tvg-id="dummy-1745214" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Keeping Up The Kardashians (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600750.ts
-#EXTINF:0 CUID="1714013" tvg-name="Keeping Up The Kardashians (WITH)" tvg-id="dummy-1714013" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Keeping Up The Kardashians (WITH)
+#EXTINF:0 CUID="1714013" tvg-name="Keeping Up The Kardashians (WITH)" tvg-id="dummy-1714013" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Keeping Up The Kardashians (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/696134.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Keepingfaith" group-title="International",Keepingfaith
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599385.ts
@@ -27821,7 +27821,7 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599951.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600990.ts
 #EXTINF:0 CUID="1744974" tvg-name="Knightfall" tvg-id="dummy-1744974" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Knightfall
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600990.ts
-#EXTINF:0 CUID="888266" tvg-name="Knowledge (KIDS)" tvg-id="knowledgenetwork.ca" tvg-logo="https://logo.m3uassets.com/knowledgekids.png" group-title="Kids",Knowledge (KIDS)
+#EXTINF:0 CUID="888266" tvg-name="Knowledge (KIDS)" tvg-id="knowledgenetwork.ca" tvg-logo="https://logo.m3uassets.com/knowledgekids.png" group-title="24/7 TV Shows",Knowledge (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/498712.ts
 #EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/NBC.png?raw=true" tvg-name="Knoxville NBC 10 (WBIR)" group-title="US Local Networks",Knoxville NBC 10 (WBIR)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1820300.ts
@@ -28269,13 +28269,13 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600986.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598857.ts
 #EXTINF:0 CUID="1713364" tvg-name="Lego Ninjago Masters Of Spinjitzu" tvg-id="dummy-1713364" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Lego Ninjago Masters Of Spinjitzu
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598857.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Lego Star (WARS)" group-title="International",Lego Star (WARS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Lego Star (WARS)" group-title="24/7 TV Shows",Lego Star (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/696123.ts
-#EXTINF:0 CUID="1714024" tvg-name="Lego Star (WARS)" tvg-id="dummy-1714024" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Lego Star (WARS)
+#EXTINF:0 CUID="1714024" tvg-name="Lego Star (WARS)" tvg-id="dummy-1714024" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Lego Star (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/696123.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Lego Star The Freemaker Adventures (WARS)" group-title="International",Lego Star The Freemaker Adventures (WARS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Lego Star The Freemaker Adventures (WARS)" group-title="24/7 TV Shows",Lego Star The Freemaker Adventures (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598856.ts
-#EXTINF:0 CUID="1713365" tvg-name="Lego Star The Freemaker Adventures (WARS)" tvg-id="dummy-1713365" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Lego Star The Freemaker Adventures (WARS)
+#EXTINF:0 CUID="1713365" tvg-name="Lego Star The Freemaker Adventures (WARS)" tvg-id="dummy-1713365" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Lego Star The Freemaker Adventures (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598856.ts
 #EXTINF:0 CUID="1132909" tvg-name="Leicester City" tvg-id="LeicesterCity.championship" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/EFL%20Teams/Championship/Leicester%20City.png?raw=true" group-title="International",Leicester City
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1520465.ts
@@ -28397,25 +28397,25 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536653.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536652.ts
 #EXTINF:0 CUID="1133446" tvg-name="Life Below Zero" tvg-id="dummy-1133446" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="International",Life Below Zero
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536652.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Life Boys (WITH)" group-title="International",Life Boys (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Life Boys (WITH)" group-title="24/7 TV Shows",Life Boys (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600436.ts
-#EXTINF:0 CUID="1745502" tvg-name="Life Boys (WITH)" tvg-id="dummy-1745502" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Life Boys (WITH)
+#EXTINF:0 CUID="1745502" tvg-name="Life Boys (WITH)" tvg-id="dummy-1745502" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Life Boys (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600436.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Life Derek (WITH)" group-title="International",Life Derek (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Life Derek (WITH)" group-title="24/7 TV Shows",Life Derek (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599950.ts
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="Life Derek (WITH)" group-title="International",Life Derek (WITH)
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="Life Derek (WITH)" group-title="24/7 TV Shows",Life Derek (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476299.ts
-#EXTINF:0 CUID="1714430" tvg-name="Life Derek (WITH)" tvg-id="dummy-1714430" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="International",Life Derek (WITH)
+#EXTINF:0 CUID="1714430" tvg-name="Life Derek (WITH)" tvg-id="dummy-1714430" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="24/7 TV Shows",Life Derek (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476299.ts
-#EXTINF:0 CUID="1721385" tvg-name="Life Derek (WITH)" tvg-id="dummy-1721385" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Life Derek (WITH)
+#EXTINF:0 CUID="1721385" tvg-name="Life Derek (WITH)" tvg-id="dummy-1721385" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Life Derek (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599950.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Life Gives You Tangerines (WHEN)" group-title="International",Life Gives You Tangerines (WHEN)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1597846.ts
 #EXTINF:0 CUID="1708279" tvg-name="Life Gives You Tangerines (WHEN)" tvg-id="dummy-1708279" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Life Gives You Tangerines (WHEN)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1597846.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Life Louie (WITH)" group-title="International",Life Louie (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Life Louie (WITH)" group-title="24/7 TV Shows",Life Louie (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600053.ts
-#EXTINF:0 CUID="1745883" tvg-name="Life Louie (WITH)" tvg-id="dummy-1745883" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Life Louie (WITH)
+#EXTINF:0 CUID="1745883" tvg-name="Life Louie (WITH)" tvg-id="dummy-1745883" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Life Louie (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600053.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Life Pieces" group-title="International",Life Pieces
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600438.ts
@@ -29157,17 +29157,17 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/607458.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1290225.ts
 #EXTINF:0 CUID="744662" tvg-name="Liverpool FC TV" tvg-id="lfctv.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/LFCTV%20HD.png?raw=true" group-title="International",Liverpool FC TV
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1290225.ts
-#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Living Evil (WITH)" group-title="International",Living Evil (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Living Evil (WITH)" group-title="24/7 TV Shows",Living Evil (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536647.ts
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="Living Evil (WITH)" group-title="International",Living Evil (WITH)
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="Living Evil (WITH)" group-title="24/7 TV Shows",Living Evil (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476295.ts
-#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/Tubi.png?raw=true" tvg-name="Living Evil (WITH)" group-title="International",Living Evil (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/Tubi.png?raw=true" tvg-name="Living Evil (WITH)" group-title="24/7 TV Shows",Living Evil (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1548331.ts
-#EXTINF:0 CUID="1133451" tvg-name="Living Evil (WITH)" tvg-id="400000067" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="International",Living Evil (WITH)
+#EXTINF:0 CUID="1133451" tvg-name="Living Evil (WITH)" tvg-id="400000067" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="24/7 TV Shows",Living Evil (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536647.ts
-#EXTINF:0 CUID="1714434" tvg-name="Living Evil (WITH)" tvg-id="dummy-1714434" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="International",Living Evil (WITH)
+#EXTINF:0 CUID="1714434" tvg-name="Living Evil (WITH)" tvg-id="dummy-1714434" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="24/7 TV Shows",Living Evil (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476295.ts
-#EXTINF:0 CUID="1292054" tvg-name="Living Evil (WITH)" tvg-id="400000067" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/Tubi.png?raw=true" group-title="International",Living Evil (WITH)
+#EXTINF:0 CUID="1292054" tvg-name="Living Evil (WITH)" tvg-id="400000067" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/Tubi.png?raw=true" group-title="24/7 TV Shows",Living Evil (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1548331.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Living Single" group-title="International",Living Single
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600433.ts
@@ -29245,9 +29245,9 @@ http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1548330.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536644.ts
 #EXTINF:0 CUID="1292055" tvg-name="Localish" tvg-id="618763" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/Tubi.png?raw=true" group-title="International",Localish
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1548330.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Locke & (KEY)" group-title="International",Locke & (KEY)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Locke & (KEY)" group-title="24/7 TV Shows",Locke & (KEY)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1597920.ts
-#EXTINF:0 CUID="1708205" tvg-name="Locke & (KEY)" tvg-id="dummy-1708205" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Locke & (KEY)
+#EXTINF:0 CUID="1708205" tvg-name="Locke & (KEY)" tvg-id="dummy-1708205" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Locke & (KEY)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1597920.ts
 #EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Locked Up Abroad" group-title="International",Locked Up Abroad
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536643.ts
@@ -29349,9 +29349,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600155.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600430.ts
 #EXTINF:0 CUID="1745508" tvg-name="Looking" tvg-id="dummy-1745508" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Looking
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600430.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/zoomookids.png" tvg-name="Looloo (KIDS)" group-title="Kids",Looloo (KIDS)
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/zoomookids.png" tvg-name="Looloo (KIDS)" group-title="24/7 TV Shows",Looloo (KIDS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1568725.ts
-#EXTINF:0 CUID="1543079" tvg-name="Looloo (KIDS)" tvg-id="dummy-1543079" tvg-logo="https://logo.m3uassets.com/zoomookids.png" group-title="Kids",Looloo (KIDS)
+#EXTINF:0 CUID="1543079" tvg-name="Looloo (KIDS)" tvg-id="dummy-1543079" tvg-logo="https://logo.m3uassets.com/zoomookids.png" group-title="24/7 TV Shows",Looloo (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1568725.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Loonatics Unleashed" group-title="International",Loonatics Unleashed
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600051.ts
@@ -29567,9 +29567,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600738.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600737.ts
 #EXTINF:0 CUID="1745227" tvg-name="Love Island" tvg-id="dummy-1745227" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Love Island
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600737.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Love Island 24/7" group-title="International",Love Island 24/7
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Love Island 24/7" group-title="24/7 TV Shows",Love Island 24/7
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/998528.ts
-#EXTINF:0 CUID="891160" tvg-name="Love Island 24/7" tvg-id="dummy-891160" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Love Island 24/7
+#EXTINF:0 CUID="891160" tvg-name="Love Island 24/7" tvg-id="dummy-891160" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Love Island 24/7
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/998528.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Love Island Us" group-title="International",Love Island Us
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598827.ts
@@ -29689,9 +29689,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1832575.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1597917.ts
 #EXTINF:0 CUID="1708208" tvg-name="Lupin" tvg-id="dummy-1708208" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Lupin
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1597917.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Lupin Iii 1 Money (WARS)" group-title="International",Lupin Iii 1 Money (WARS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Lupin Iii 1 Money (WARS)" group-title="24/7 TV Shows",Lupin Iii 1 Money (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598824.ts
-#EXTINF:0 CUID="1713397" tvg-name="Lupin Iii 1 Money (WARS)" tvg-id="dummy-1713397" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Lupin Iii 1 Money (WARS)
+#EXTINF:0 CUID="1713397" tvg-name="Lupin Iii 1 Money (WARS)" tvg-id="dummy-1713397" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Lupin Iii 1 Money (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598824.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Lupin Iii Ai No Da Capo Fujiko S Unlucky Days" group-title="International",Lupin Iii Ai No Da Capo Fujiko S Unlucky Days
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598823.ts
@@ -30109,9 +30109,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1537432.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600730.ts
 #EXTINF:0 CUID="1745234" tvg-name="Married To Medicine Los Angeles" tvg-id="dummy-1745234" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Married To Medicine Los Angeles
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600730.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Married... Children (WITH)" group-title="International",Married... Children (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Married... Children (WITH)" group-title="24/7 TV Shows",Married... Children (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600863.ts
-#EXTINF:0 CUID="1745101" tvg-name="Married... Children (WITH)" tvg-id="dummy-1745101" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Married... Children (WITH)
+#EXTINF:0 CUID="1745101" tvg-name="Married... Children (WITH)" tvg-id="dummy-1745101" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Married... Children (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600863.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Martha Snoops Potluck Dinner Party" group-title="International",Martha Snoops Potluck Dinner Party
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598801.ts
@@ -31157,9 +31157,9 @@ http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600047.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600047.ts
 #EXTINF:0 CUID="1242750" tvg-name="Moonbug" tvg-id="dummy-1242750" tvg-logo="https://logo.m3uassets.com/moonbug.png" group-title="International",Moonbug
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1541152.ts
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="Moonbug (KIDS)" group-title="Kids",Moonbug (KIDS)
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="Moonbug (KIDS)" group-title="24/7 TV Shows",Moonbug (KIDS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476262.ts
-#EXTINF:0 CUID="1714467" tvg-name="Moonbug (KIDS)" tvg-id="dummy-1714467" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="Kids",Moonbug (KIDS)
+#EXTINF:0 CUID="1714467" tvg-name="Moonbug (KIDS)" tvg-id="dummy-1714467" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="24/7 TV Shows",Moonbug (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476262.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Moonlighting" group-title="International",Moonlighting
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600403.ts
@@ -31335,9 +31335,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536603.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/325968.ts
 #EXTINF:0 CUID="34255" tvg-name="Movieplex" tvg-id="movieplex.us" tvg-logo="https://logo.m3uassets.com/movieplex.png" group-title="International",Movieplex
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/325968.ts
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20220910%2Foriginal%2Fpngtree-selamat-hari-radio-elektronik-white-putih-modern-design-png-image_8529792.png&f=1&nofb=1&ipt=026a704ba1370191b0addb9a826c52ce042603247cbfd97de94e0c11f0cf1452" tvg-name="Movies & Musicals (KIDS)" group-title="Kids",Movies & Musicals (KIDS)
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20220910%2Foriginal%2Fpngtree-selamat-hari-radio-elektronik-white-putih-modern-design-png-image_8529792.png&f=1&nofb=1&ipt=026a704ba1370191b0addb9a826c52ce042603247cbfd97de94e0c11f0cf1452" tvg-name="Movies & Musicals (KIDS)" group-title="24/7 TV Shows",Movies & Musicals (KIDS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1832578.ts
-#EXTINF:0 CUID="3407997" tvg-name="Movies & Musicals (KIDS)" tvg-id="dummy-3407997" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20220910%2Foriginal%2Fpngtree-selamat-hari-radio-elektronik-white-putih-modern-design-png-image_8529792.png&f=1&nofb=1&ipt=026a704ba1370191b0addb9a826c52ce042603247cbfd97de94e0c11f0cf1452" group-title="Kids",Movies & Musicals (KIDS)
+#EXTINF:0 CUID="3407997" tvg-name="Movies & Musicals (KIDS)" tvg-id="dummy-3407997" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20220910%2Foriginal%2Fpngtree-selamat-hari-radio-elektronik-white-putih-modern-design-png-image_8529792.png&f=1&nofb=1&ipt=026a704ba1370191b0addb9a826c52ce042603247cbfd97de94e0c11f0cf1452" group-title="24/7 TV Shows",Movies & Musicals (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1832578.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Movies 1 (WAR)" group-title="24/7 Movies",Movies 1 (WAR)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013531.ts
@@ -31701,13 +31701,13 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1791235.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476251.ts
 #EXTINF:0 CUID="1714478" tvg-name="Mvstv" tvg-id="dummy-1714478" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="International",Mvstv
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476251.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="My & Kids (WIFE)" group-title="Kids",My & Kids (WIFE)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="My & Kids (WIFE)" group-title="24/7 TV Shows",My & Kids (WIFE)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/485298.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="My & Kids (WIFE)" group-title="Kids",My & Kids (WIFE)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="My & Kids (WIFE)" group-title="24/7 TV Shows",My & Kids (WIFE)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600394.ts
-#EXTINF:0 CUID="1714782" tvg-name="My & Kids (WIFE)" tvg-id="dummy-1714782" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="Kids",My & Kids (WIFE)
+#EXTINF:0 CUID="1714782" tvg-name="My & Kids (WIFE)" tvg-id="dummy-1714782" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",My & Kids (WIFE)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/485298.ts
-#EXTINF:0 CUID="1745544" tvg-name="My & Kids (WIFE)" tvg-id="dummy-1745544" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="Kids",My & Kids (WIFE)
+#EXTINF:0 CUID="1745544" tvg-name="My & Kids (WIFE)" tvg-id="dummy-1745544" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",My & Kids (WIFE)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600394.ts
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12787.png?82416" tvg-name="MY 33 Miami F (WBFS)" group-title="International",MY 33 Miami F (WBFS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/654922.ts
@@ -31769,9 +31769,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600046.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1834996.ts
 #EXTINF:0 CUID="3453727" tvg-name="My Lady Jane" tvg-id="dummy-3453727" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",My Lady Jane
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1834996.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="My Life The Walter Boys (WITH)" group-title="International",My Life The Walter Boys (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="My Life The Walter Boys (WITH)" group-title="24/7 TV Shows",My Life The Walter Boys (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1597907.ts
-#EXTINF:0 CUID="1708218" tvg-name="My Life The Walter Boys (WITH)" tvg-id="dummy-1708218" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",My Life The Walter Boys (WITH)
+#EXTINF:0 CUID="1708218" tvg-name="My Life The Walter Boys (WITH)" tvg-id="dummy-1708218" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",My Life The Walter Boys (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1597907.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="My Little Pony" group-title="International",My Little Pony
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/696103.ts
@@ -31865,13 +31865,13 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536594.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476247.ts
 #EXTINF:0 CUID="1148193" tvg-name="Mythbusters" tvg-id="dummy-1148193" tvg-logo="https://logo.m3uassets.com/mythbusters.png" group-title="Documentary",Mythbusters
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1537426.ts
-#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Mythical 24/7" group-title="International",Mythical 24/7
+#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Mythical 24/7" group-title="24/7 TV Shows",Mythical 24/7
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536593.ts
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="Mythical 24/7" group-title="International",Mythical 24/7
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="Mythical 24/7" group-title="24/7 TV Shows",Mythical 24/7
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476246.ts
-#EXTINF:0 CUID="1133505" tvg-name="Mythical 24/7" tvg-id="dummy-1133505" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="International",Mythical 24/7
+#EXTINF:0 CUID="1133505" tvg-name="Mythical 24/7" tvg-id="dummy-1133505" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="24/7 TV Shows",Mythical 24/7
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536593.ts
-#EXTINF:0 CUID="1714483" tvg-name="Mythical 24/7" tvg-id="dummy-1714483" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="International",Mythical 24/7
+#EXTINF:0 CUID="1714483" tvg-name="Mythical 24/7" tvg-id="dummy-1714483" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="24/7 TV Shows",Mythical 24/7
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476246.ts
 #EXTINF:0 CUID="1148194" tvg-name="Mytime Movie Network" tvg-id="dummy-1148194" tvg-logo="https://logo.m3uassets.com/mytimemovienetwork.png" group-title="24/7 Movies",Mytime Movie Network
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1537425.ts
@@ -35349,17 +35349,17 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476224.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1568690.ts
 #EXTINF:0 CUID="1543114" tvg-name="Net Movies" tvg-id="hdnetmovies.us" tvg-logo="https://logo.m3uassets.com/netmovies.png" group-title="Movie Channels",Net Movies
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1568690.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Netflix (KIDS)" group-title="Kids",Netflix (KIDS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Netflix (KIDS)" group-title="24/7 TV Shows",Netflix (KIDS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013546.ts
-#EXTINF:0 CUID="1715038" tvg-name="Netflix (KIDS)" tvg-id="dummy-1715038" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="Kids",Netflix (KIDS)
+#EXTINF:0 CUID="1715038" tvg-name="Netflix (KIDS)" tvg-id="dummy-1715038" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Netflix (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013546.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Netflix (WAR)" group-title="International",Netflix (WAR)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Netflix (WAR)" group-title="24/7 TV Shows",Netflix (WAR)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013644.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Netflix (WAR)" group-title="International",Netflix (WAR)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Netflix (WAR)" group-title="24/7 TV Shows",Netflix (WAR)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013551.ts
-#EXTINF:0 CUID="1714939" tvg-name="Netflix (WAR)" tvg-id="dummy-1714939" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Netflix (WAR)
+#EXTINF:0 CUID="1714939" tvg-name="Netflix (WAR)" tvg-id="dummy-1714939" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Netflix (WAR)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013644.ts
-#EXTINF:0 CUID="1715033" tvg-name="Netflix (WAR)" tvg-id="dummy-1715033" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Netflix (WAR)
+#EXTINF:0 CUID="1715033" tvg-name="Netflix (WAR)" tvg-id="dummy-1715033" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Netflix (WAR)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013551.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Netflix (WWE)" group-title="Sports: Combat",Netflix (WWE)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013543.ts
@@ -37623,13 +37623,13 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1520111.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536545.ts
 #EXTINF:0 CUID="1714514" tvg-name="Noticias TELEMUNDO Ahora" tvg-id="dummy-1714514" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="Entertainment",Noticias TELEMUNDO Ahora
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476215.ts
-#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Noticias UNIVISION 24/7" group-title="Entertainment",Noticias UNIVISION 24/7
+#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Noticias UNIVISION 24/7" group-title="24/7 TV Shows",Noticias UNIVISION 24/7
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536543.ts
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="Noticias UNIVISION 24/7" group-title="Entertainment",Noticias UNIVISION 24/7
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="Noticias UNIVISION 24/7" group-title="24/7 TV Shows",Noticias UNIVISION 24/7
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476214.ts
-#EXTINF:0 CUID="1133555" tvg-name="Noticias UNIVISION 24/7" tvg-id="dummy-1133555" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="Entertainment",Noticias UNIVISION 24/7
+#EXTINF:0 CUID="1133555" tvg-name="Noticias UNIVISION 24/7" tvg-id="dummy-1133555" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="24/7 TV Shows",Noticias UNIVISION 24/7
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536543.ts
-#EXTINF:0 CUID="1714515" tvg-name="Noticias UNIVISION 24/7" tvg-id="dummy-1714515" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="Entertainment",Noticias UNIVISION 24/7
+#EXTINF:0 CUID="1714515" tvg-name="Noticias UNIVISION 24/7" tvg-id="dummy-1714515" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="24/7 TV Shows",Noticias UNIVISION 24/7
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476214.ts
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/univision.png" tvg-name="Noticias UNIVISION Spanish News" group-title="News",Noticias UNIVISION Spanish News
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536544.ts
@@ -38105,9 +38105,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600382.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/696097.ts
 #EXTINF:0 CUID="1714050" tvg-name="On The Buses" tvg-id="dummy-1714050" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",On The Buses
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/696097.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="On The Case Paula Zahn 9 (WITH)" group-title="International",On The Case Paula Zahn 9 (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="On The Case Paula Zahn 9 (WITH)" group-title="24/7 TV Shows",On The Case Paula Zahn 9 (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598729.ts
-#EXTINF:0 CUID="1713492" tvg-name="On The Case Paula Zahn 9 (WITH)" tvg-id="dummy-1713492" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",On The Case Paula Zahn 9 (WITH)
+#EXTINF:0 CUID="1713492" tvg-name="On The Case Paula Zahn 9 (WITH)" tvg-id="dummy-1713492" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",On The Case Paula Zahn 9 (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598729.ts
 #EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="On The Telly" group-title="International",On The Telly
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536541.ts
@@ -38243,9 +38243,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1520044.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1520039.ts
 #EXTINF:0 CUID="1613396" tvg-name="Oneplay - SpiderMan" tvg-id="dummy-1613396" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Oneplay - SpiderMan
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1520039.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Oneplay - Star (WARS)" group-title="International",Oneplay - Star (WARS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Oneplay - Star (WARS)" group-title="24/7 TV Shows",Oneplay - Star (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1520043.ts
-#EXTINF:0 CUID="1613392" tvg-name="Oneplay - Star (WARS)" tvg-id="dummy-1613392" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Oneplay - Star (WARS)
+#EXTINF:0 CUID="1613392" tvg-name="Oneplay - Star (WARS)" tvg-id="dummy-1613392" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Oneplay - Star (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1520043.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Oneplay - The Dark Knight" group-title="International",Oneplay - The Dark Knight
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1520037.ts
@@ -38667,9 +38667,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1519986.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1520004.ts
 #EXTINF:0 CUID="1613431" tvg-name="Oneplay Zig Sharko" tvg-id="dummy-1613431" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Oneplay Zig Sharko
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1520004.ts
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20220910%2Foriginal%2Fpngtree-selamat-hari-radio-elektronik-white-putih-modern-design-png-image_8529792.png&f=1&nofb=1&ipt=026a704ba1370191b0addb9a826c52ce042603247cbfd97de94e0c11f0cf1452" tvg-name="Only (KIDS)" group-title="Kids",Only (KIDS)
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20220910%2Foriginal%2Fpngtree-selamat-hari-radio-elektronik-white-putih-modern-design-png-image_8529792.png&f=1&nofb=1&ipt=026a704ba1370191b0addb9a826c52ce042603247cbfd97de94e0c11f0cf1452" tvg-name="Only (KIDS)" group-title="24/7 TV Shows",Only (KIDS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1832580.ts
-#EXTINF:0 CUID="3407995" tvg-name="Only (KIDS)" tvg-id="dummy-3407995" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20220910%2Foriginal%2Fpngtree-selamat-hari-radio-elektronik-white-putih-modern-design-png-image_8529792.png&f=1&nofb=1&ipt=026a704ba1370191b0addb9a826c52ce042603247cbfd97de94e0c11f0cf1452" group-title="Kids",Only (KIDS)
+#EXTINF:0 CUID="3407995" tvg-name="Only (KIDS)" tvg-id="dummy-3407995" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20220910%2Foriginal%2Fpngtree-selamat-hari-radio-elektronik-white-putih-modern-design-png-image_8529792.png&f=1&nofb=1&ipt=026a704ba1370191b0addb9a826c52ce042603247cbfd97de94e0c11f0cf1452" group-title="24/7 TV Shows",Only (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1832580.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Only Fools & Horses" group-title="International",Only Fools & Horses
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600853.ts
@@ -41307,13 +41307,13 @@ http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600356.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600356.ts
 #EXTINF:0 CUID="892068" tvg-name="Real Sociedad" tvg-id="RealSociedad.copa-del-rey" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/LaLiga%20Teams/Real%20Sociedad.png?raw=true" group-title="International",Real Sociedad
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/621403.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Real Time Bill Maher (WITH)" group-title="International",Real Time Bill Maher (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Real Time Bill Maher (WITH)" group-title="24/7 TV Shows",Real Time Bill Maher (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600355.ts
-#EXTINF:0 CUID="1745583" tvg-name="Real Time Bill Maher (WITH)" tvg-id="dummy-1745583" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Real Time Bill Maher (WITH)
+#EXTINF:0 CUID="1745583" tvg-name="Real Time Bill Maher (WITH)" tvg-id="dummy-1745583" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Real Time Bill Maher (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600355.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Reality 24/7" group-title="International",Reality 24/7
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Reality 24/7" group-title="24/7 TV Shows",Reality 24/7
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/998529.ts
-#EXTINF:0 CUID="891159" tvg-name="Reality 24/7" tvg-id="dummy-891159" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Reality 24/7
+#EXTINF:0 CUID="891159" tvg-name="Reality 24/7" tvg-id="dummy-891159" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Reality 24/7
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/998529.ts
 #EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Reality Gone (WILD)" group-title="International",Reality Gone (WILD)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536492.ts
@@ -41905,9 +41905,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1601096.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1601095.ts
 #EXTINF:0 CUID="1744869" tvg-name="Robin Wright" tvg-id="dummy-1744869" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Robin Wright
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1601095.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Robot (WARS)" group-title="International",Robot (WARS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Robot (WARS)" group-title="24/7 TV Shows",Robot (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598682.ts
-#EXTINF:0 CUID="1713539" tvg-name="Robot (WARS)" tvg-id="dummy-1713539" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Robot (WARS)
+#EXTINF:0 CUID="1713539" tvg-name="Robot (WARS)" tvg-id="dummy-1713539" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Robot (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598682.ts
 #EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/NBC.png?raw=true" tvg-name="Rochester NBC 10 (WHEC)" group-title="US Local Networks",Rochester NBC 10 (WHEC)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1820330.ts
@@ -42143,9 +42143,9 @@ http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599283.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599283.ts
 #EXTINF:0 CUID="1132953" tvg-name="Rotherham United" tvg-id="RotherhamUnited.league-cup" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/EFL%20Teams/League%20One/Rotherham%20United.png?raw=true" group-title="International",Rotherham United
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1520421.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Rough Draft Reza Aslan (WITH)" group-title="International",Rough Draft Reza Aslan (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Rough Draft Reza Aslan (WITH)" group-title="24/7 TV Shows",Rough Draft Reza Aslan (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598679.ts
-#EXTINF:0 CUID="1713542" tvg-name="Rough Draft Reza Aslan (WITH)" tvg-id="dummy-1713542" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Rough Draft Reza Aslan (WITH)
+#EXTINF:0 CUID="1713542" tvg-name="Rough Draft Reza Aslan (WITH)" tvg-id="dummy-1713542" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Rough Draft Reza Aslan (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598679.ts
 #EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US2/Animated%20PPV%20USA.gif?raw=true" tvg-name="End | Andalucía, Round 2 | all | 05-06-2026 | 05:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 19" group-title="PPV & Events",End | Andalucía, Round 2 | all | 05-06-2026 | 05:00 (GMT) | 8K EXCLUSIVE | US: SOCCER PPV 19
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1940138.ts
@@ -42683,9 +42683,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013579.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598667.ts
 #EXTINF:0 CUID="1713554" tvg-name="Say I Do" tvg-id="dummy-1713554" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Say I Do
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598667.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Say The Darndest Things (KIDS)" group-title="Kids",Say The Darndest Things (KIDS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Say The Darndest Things (KIDS)" group-title="24/7 TV Shows",Say The Darndest Things (KIDS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600445.ts
-#EXTINF:0 CUID="1745493" tvg-name="Say The Darndest Things (KIDS)" tvg-id="dummy-1745493" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="Kids",Say The Darndest Things (KIDS)
+#EXTINF:0 CUID="1745493" tvg-name="Say The Darndest Things (KIDS)" tvg-id="dummy-1745493" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Say The Darndest Things (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600445.ts
 #EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/14545.PNG?ver=52669" tvg-name="Say Yes To The Dress" group-title="International",Say Yes To The Dress
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1568654.ts
@@ -43475,9 +43475,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600324.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600323.ts
 #EXTINF:0 CUID="1745615" tvg-name="Sick Of It" tvg-id="dummy-1745615" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Sick Of It
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600323.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Siesta (KEY)" group-title="International",Siesta (KEY)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Siesta (KEY)" group-title="24/7 TV Shows",Siesta (KEY)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600706.ts
-#EXTINF:0 CUID="1745258" tvg-name="Siesta (KEY)" tvg-id="dummy-1745258" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Siesta (KEY)
+#EXTINF:0 CUID="1745258" tvg-name="Siesta (KEY)" tvg-id="dummy-1745258" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Siesta (KEY)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600706.ts
 #EXTINF:0 CUID="4978032" tvg-name="Sigma Cyprus" tvg-id="dummy-4978032" tvg-logo="https://logo.m3uassets.com/sigma.png" group-title="International",Sigma Cyprus
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/2012629.ts
@@ -43571,9 +43571,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013347.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599266.ts
 #EXTINF:0 CUID="1712955" tvg-name="Skam France" tvg-id="dummy-1712955" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Skam France
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599266.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Skin (WARS)" group-title="International",Skin (WARS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Skin (WARS)" group-title="24/7 TV Shows",Skin (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600705.ts
-#EXTINF:0 CUID="1745259" tvg-name="Skin (WARS)" tvg-id="dummy-1745259" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Skin (WARS)
+#EXTINF:0 CUID="1745259" tvg-name="Skin (WARS)" tvg-id="dummy-1745259" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Skin (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600705.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Skin Decision Before & After" group-title="International",Skin Decision Before & After
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598646.ts
@@ -43587,19 +43587,19 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599265.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1597894.ts
 #EXTINF:0 CUID="1708231" tvg-name="Skull Island" tvg-id="dummy-1708231" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Skull Island
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1597894.ts
-#EXTINF:0 CUID="870457" tvg-name="Sky (KIDS)" tvg-id="skykids.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Kids%20HD.png?raw=true" group-title="Kids",Sky (KIDS)
+#EXTINF:0 CUID="870457" tvg-name="Sky (KIDS)" tvg-id="skykids.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Kids%20HD.png?raw=true" group-title="24/7 TV Shows",Sky (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1527692.ts
-#EXTINF:0 CUID="1983395" tvg-name="Sky (KIDS)" tvg-id="skykids.uk" tvg-logo="https://logo.m3uassets.com/skykids.png" group-title="Kids",Sky (KIDS)
+#EXTINF:0 CUID="1983395" tvg-name="Sky (KIDS)" tvg-id="skykids.uk" tvg-logo="https://logo.m3uassets.com/skykids.png" group-title="24/7 TV Shows",Sky (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1527691.ts
-#EXTINF:0 CUID="1983397" tvg-name="Sky (KIDS)" tvg-id="skykids.uk" tvg-logo="https://logo.m3uassets.com/skykids.png" group-title="Kids",Sky (KIDS)
+#EXTINF:0 CUID="1983397" tvg-name="Sky (KIDS)" tvg-id="skykids.uk" tvg-logo="https://logo.m3uassets.com/skykids.png" group-title="24/7 TV Shows",Sky (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/639192.ts
-#EXTINF:0 CUID="1983398" tvg-name="Sky (KIDS)" tvg-id="skykids.uk" tvg-logo="https://logo.m3uassets.com/skykids.png" group-title="Kids",Sky (KIDS)
+#EXTINF:0 CUID="1983398" tvg-name="Sky (KIDS)" tvg-id="skykids.uk" tvg-logo="https://logo.m3uassets.com/skykids.png" group-title="24/7 TV Shows",Sky (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/639172.ts
-#EXTINF:0 CUID="1259335" tvg-name="Sky (KIDS)" tvg-id="skykids.uk" tvg-logo="https://logo.m3uassets.com/skykids.png" group-title="Kids",Sky (KIDS)
+#EXTINF:0 CUID="1259335" tvg-name="Sky (KIDS)" tvg-id="skykids.uk" tvg-logo="https://logo.m3uassets.com/skykids.png" group-title="24/7 TV Shows",Sky (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/162231.ts
-#EXTINF:0 CUID="891140" tvg-name="Sky (KIDS)" tvg-id="skykids.uk" tvg-logo="https://logo.m3uassets.com/skykids.png" group-title="Kids",Sky (KIDS)
+#EXTINF:0 CUID="891140" tvg-name="Sky (KIDS)" tvg-id="skykids.uk" tvg-logo="https://logo.m3uassets.com/skykids.png" group-title="24/7 TV Shows",Sky (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/717688.ts
-#EXTINF:0 CUID="891134" tvg-name="Sky (KIDS)" tvg-id="skykids.uk" tvg-logo="https://logo.m3uassets.com/skykids.png" group-title="Kids",Sky (KIDS)
+#EXTINF:0 CUID="891134" tvg-name="Sky (KIDS)" tvg-id="skykids.uk" tvg-logo="https://logo.m3uassets.com/skykids.png" group-title="24/7 TV Shows",Sky (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/717694.ts
 #EXTINF:0 CUID="744597" tvg-name="Sky Arts" tvg-id="skyarts.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Arts%20HD.png?raw=true" group-title="International",Sky Arts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/162254.ts
@@ -44965,9 +44965,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599263.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600319.ts
 #EXTINF:0 CUID="1745619" tvg-name="Smilf" tvg-id="dummy-1745619" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Smilf
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600319.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Smith (WILL)" group-title="International",Smith (WILL)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Smith (WILL)" group-title="24/7 TV Shows",Smith (WILL)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1601045.ts
-#EXTINF:0 CUID="1744919" tvg-name="Smith (WILL)" tvg-id="dummy-1744919" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Smith (WILL)
+#EXTINF:0 CUID="1744919" tvg-name="Smith (WILL)" tvg-id="dummy-1744919" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Smith (WILL)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1601045.ts
 #EXTINF:0 CUID="844648" tvg-name="Smithsonian" tvg-id="smithsonian.ca" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png" group-title="Documentary",Smithsonian
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/695096.ts
@@ -45099,9 +45099,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476142.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599933.ts
 #EXTINF:0 CUID="1721402" tvg-name="Sonic Underground" tvg-id="dummy-1721402" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Sonic Underground
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599933.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Sonny A Chance (WITH)" group-title="International",Sonny A Chance (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Sonny A Chance (WITH)" group-title="24/7 TV Shows",Sonny A Chance (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600315.ts
-#EXTINF:0 CUID="1745623" tvg-name="Sonny A Chance (WITH)" tvg-id="dummy-1745623" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Sonny A Chance (WITH)
+#EXTINF:0 CUID="1745623" tvg-name="Sonny A Chance (WITH)" tvg-id="dummy-1745623" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Sonny A Chance (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600315.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Sons Of Anarchy" group-title="International",Sons Of Anarchy
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600124.ts
@@ -46111,9 +46111,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1820337.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1820338.ts
 #EXTINF:0 CUID="3170127" tvg-name="Springfield NBC 3 (KYTV)" tvg-id="kytv.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/NBC.png?raw=true" group-title="US Local Networks",Springfield NBC 3 (KYTV)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1820338.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Spy (KIDS)" group-title="Kids",Spy (KIDS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Spy (KIDS)" group-title="24/7 TV Shows",Spy (KIDS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013575.ts
-#EXTINF:0 CUID="1715009" tvg-name="Spy (KIDS)" tvg-id="dummy-1715009" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="Kids",Spy (KIDS)
+#EXTINF:0 CUID="1715009" tvg-name="Spy (KIDS)" tvg-id="dummy-1715009" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Spy (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013575.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Squeamish About" group-title="International",Squeamish About
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598635.ts
@@ -46233,29 +46233,29 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598632.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013532.ts
 #EXTINF:0 CUID="1715052" tvg-name="Stand Up Comedy" tvg-id="dummy-1715052" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="Entertainment",Stand Up Comedy
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013532.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star (WARS)" group-title="International",Star (WARS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star (WARS)" group-title="24/7 TV Shows",Star (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/485170.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star (WARS)" group-title="International",Star (WARS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star (WARS)" group-title="24/7 TV Shows",Star (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013573.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star (WARS)" group-title="International",Star (WARS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star (WARS)" group-title="24/7 TV Shows",Star (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013393.ts
-#EXTINF:0 CUID="1714909" tvg-name="Star (WARS)" tvg-id="dummy-1714909" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Star (WARS)
+#EXTINF:0 CUID="1714909" tvg-name="Star (WARS)" tvg-id="dummy-1714909" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Star (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/485170.ts
-#EXTINF:0 CUID="1715011" tvg-name="Star (WARS)" tvg-id="dummy-1715011" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Star (WARS)
+#EXTINF:0 CUID="1715011" tvg-name="Star (WARS)" tvg-id="dummy-1715011" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Star (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013573.ts
-#EXTINF:0 CUID="1715191" tvg-name="Star (WARS)" tvg-id="dummy-1715191" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Star (WARS)
+#EXTINF:0 CUID="1715191" tvg-name="Star (WARS)" tvg-id="dummy-1715191" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Star (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013393.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star Crossed" group-title="International",Star Crossed
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598631.ts
 #EXTINF:0 CUID="1713590" tvg-name="Star Crossed" tvg-id="dummy-1713590" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Star Crossed
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598631.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star Rebels (WARS)" group-title="International",Star Rebels (WARS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star Rebels (WARS)" group-title="24/7 TV Shows",Star Rebels (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600955.ts
-#EXTINF:0 CUID="1745009" tvg-name="Star Rebels (WARS)" tvg-id="dummy-1745009" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Star Rebels (WARS)
+#EXTINF:0 CUID="1745009" tvg-name="Star Rebels (WARS)" tvg-id="dummy-1745009" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Star Rebels (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600955.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star Skeleton Crew (WARS)" group-title="International",Star Skeleton Crew (WARS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star Skeleton Crew (WARS)" group-title="24/7 TV Shows",Star Skeleton Crew (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1835462.ts
-#EXTINF:0 CUID="3458420" tvg-name="Star Skeleton Crew (WARS)" tvg-id="dummy-3458420" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Star Skeleton Crew (WARS)
+#EXTINF:0 CUID="3458420" tvg-name="Star Skeleton Crew (WARS)" tvg-id="dummy-3458420" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Star Skeleton Crew (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1835462.ts
 #EXTINF:0 CUID="3986356" tvg-name="Star Sports (KHEL)" tvg-id="463852" tvg-logo="https://logo.m3uassets.com/starsports.png" group-title="International",Star Sports (KHEL)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/852139.ts
@@ -46267,17 +46267,17 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/852143.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/852141.ts
 #EXTINF:0 CUID="3986355" tvg-name="Star Sports 3" tvg-id="464163" tvg-logo="https://logo.m3uassets.com/starsports3.png" group-title="International",Star Sports 3
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/852140.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star Tales Of The Empire (WARS)" group-title="International",Star Tales Of The Empire (WARS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star Tales Of The Empire (WARS)" group-title="24/7 TV Shows",Star Tales Of The Empire (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1835463.ts
-#EXTINF:0 CUID="3458421" tvg-name="Star Tales Of The Empire (WARS)" tvg-id="dummy-3458421" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Star Tales Of The Empire (WARS)
+#EXTINF:0 CUID="3458421" tvg-name="Star Tales Of The Empire (WARS)" tvg-id="dummy-3458421" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Star Tales Of The Empire (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1835463.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star The Bad Batch (WARS)" group-title="International",Star The Bad Batch (WARS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star The Bad Batch (WARS)" group-title="24/7 TV Shows",Star The Bad Batch (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1835464.ts
-#EXTINF:0 CUID="3458422" tvg-name="Star The Bad Batch (WARS)" tvg-id="dummy-3458422" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Star The Bad Batch (WARS)
+#EXTINF:0 CUID="3458422" tvg-name="Star The Bad Batch (WARS)" tvg-id="dummy-3458422" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Star The Bad Batch (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1835464.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star The Clone Wars (WARS)" group-title="International",Star The Clone Wars (WARS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star The Clone Wars (WARS)" group-title="24/7 TV Shows",Star The Clone Wars (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1835465.ts
-#EXTINF:0 CUID="3458423" tvg-name="Star The Clone Wars (WARS)" tvg-id="dummy-3458423" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Star The Clone Wars (WARS)
+#EXTINF:0 CUID="3458423" tvg-name="Star The Clone Wars (WARS)" tvg-id="dummy-3458423" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Star The Clone Wars (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1835465.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star Trek" group-title="International",Star Trek
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013574.ts
@@ -46323,21 +46323,21 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600957.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600956.ts
 #EXTINF:0 CUID="1745008" tvg-name="Star Trek: Enterprise" tvg-id="dummy-1745008" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Star Trek: Enterprise
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600956.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star Visions (WARS)" group-title="International",Star Visions (WARS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star Visions (WARS)" group-title="24/7 TV Shows",Star Visions (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1835466.ts
-#EXTINF:0 CUID="3458424" tvg-name="Star Visions (WARS)" tvg-id="dummy-3458424" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Star Visions (WARS)
+#EXTINF:0 CUID="3458424" tvg-name="Star Visions (WARS)" tvg-id="dummy-3458424" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Star Visions (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1835466.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star Vs The Forces Of Evil" group-title="International",Star Vs The Forces Of Evil
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598625.ts
 #EXTINF:0 CUID="1713596" tvg-name="Star Vs The Forces Of Evil" tvg-id="dummy-1713596" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Star Vs The Forces Of Evil
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598625.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star Wars: The Clone (WARS)" group-title="International",Star Wars: The Clone (WARS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star Wars: The Clone (WARS)" group-title="24/7 TV Shows",Star Wars: The Clone (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600954.ts
-#EXTINF:0 CUID="1745010" tvg-name="Star Wars: The Clone (WARS)" tvg-id="dummy-1745010" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Star Wars: The Clone (WARS)
+#EXTINF:0 CUID="1745010" tvg-name="Star Wars: The Clone (WARS)" tvg-id="dummy-1745010" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Star Wars: The Clone (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600954.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star Young Jedi Adventures (WARS)" group-title="International",Star Young Jedi Adventures (WARS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Star Young Jedi Adventures (WARS)" group-title="24/7 TV Shows",Star Young Jedi Adventures (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1835467.ts
-#EXTINF:0 CUID="3458425" tvg-name="Star Young Jedi Adventures (WARS)" tvg-id="dummy-3458425" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Star Young Jedi Adventures (WARS)
+#EXTINF:0 CUID="3458425" tvg-name="Star Young Jedi Adventures (WARS)" tvg-id="dummy-3458425" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Star Young Jedi Adventures (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1835467.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Starbeam" group-title="International",Starbeam
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600018.ts
@@ -46399,13 +46399,13 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/325957.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/325947.ts
 #EXTINF:0 CUID="1714596" tvg-name="Starz" tvg-id="dummy-1714596" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="Movie Channels",Starz
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476133.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/starzkidsandfamily.png" tvg-name="Starz & Family (KIDS)" group-title="Movie Channels",Starz & Family (KIDS)
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/starzkidsandfamily.png" tvg-name="Starz & Family (KIDS)" group-title="24/7 TV Shows",Starz & Family (KIDS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/325946.ts
-#EXTINF:0 CUID="34264" tvg-name="Starz & Family (KIDS)" tvg-id="starzkids&family.us" tvg-logo="https://logo.m3uassets.com/starzkidsandfamily.png" group-title="Movie Channels",Starz & Family (KIDS)
+#EXTINF:0 CUID="34264" tvg-name="Starz & Family (KIDS)" tvg-id="starzkids&family.us" tvg-logo="https://logo.m3uassets.com/starzkidsandfamily.png" group-title="24/7 TV Shows",Starz & Family (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/325946.ts
-#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/starzkidsfamily.png" tvg-name="Starz & Family East (KIDS)" group-title="Movie Channels",Starz & Family East (KIDS)
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/starzkidsfamily.png" tvg-name="Starz & Family East (KIDS)" group-title="24/7 TV Shows",Starz & Family East (KIDS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536435.ts
-#EXTINF:0 CUID="2817544" tvg-name="Starz & Family East (KIDS)" tvg-id="starzkids&family.us" tvg-logo="https://logo.m3uassets.com/starzkidsfamily.png" group-title="Movie Channels",Starz & Family East (KIDS)
+#EXTINF:0 CUID="2817544" tvg-name="Starz & Family East (KIDS)" tvg-id="starzkids&family.us" tvg-logo="https://logo.m3uassets.com/starzkidsfamily.png" group-title="24/7 TV Shows",Starz & Family East (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536435.ts
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/starz.png" tvg-name="Starz (WEST)" group-title="Movie Channels",Starz (WEST)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/325945.ts
@@ -46691,17 +46691,17 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1544336.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1520419.ts
 #EXTINF:0 CUID="1132928" tvg-name="Stoke City" tvg-id="StokeCity.championship" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/EFL%20Teams/Championship/Stoke%20City.png?raw=true" group-title="International",Stoke City
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1520446.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Storage (WARS)" group-title="International",Storage (WARS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Storage (WARS)" group-title="24/7 TV Shows",Storage (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600698.ts
-#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Storage (WARS)" group-title="International",Storage (WARS)
+#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Storage (WARS)" group-title="24/7 TV Shows",Storage (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536434.ts
-#EXTINF:0 CUID="1133664" tvg-name="Storage (WARS)" tvg-id="dummy-1133664" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="International",Storage (WARS)
+#EXTINF:0 CUID="1133664" tvg-name="Storage (WARS)" tvg-id="dummy-1133664" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="24/7 TV Shows",Storage (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536434.ts
-#EXTINF:0 CUID="1745266" tvg-name="Storage (WARS)" tvg-id="dummy-1745266" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Storage (WARS)
+#EXTINF:0 CUID="1745266" tvg-name="Storage (WARS)" tvg-id="dummy-1745266" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Storage (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600698.ts
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="Storage By A&e (WARS)" group-title="Entertainment",Storage By A&e (WARS)
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" tvg-name="Storage By A&e (WARS)" group-title="24/7 TV Shows",Storage By A&e (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1475956.ts
-#EXTINF:0 CUID="1714773" tvg-name="Storage By A&e (WARS)" tvg-id="dummy-1714773" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="Entertainment",Storage By A&e (WARS)
+#EXTINF:0 CUID="1714773" tvg-name="Storage By A&e (WARS)" tvg-id="dummy-1714773" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Froku-logo-png-transparent.png&f=1&nofb=1&ipt=3cfd259fb6c1a991e856b843111e6dbf7ccec73a376d8bf92d35ea30bc0655e2" group-title="24/7 TV Shows",Storage By A&e (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1475956.ts
 #EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="Stories By Amc" group-title="Movie Channels",Stories By Amc
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536433.ts
@@ -47321,9 +47321,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598606.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1832612.ts
 #EXTINF:0 CUID="3407963" tvg-name="Taste OF Italy" tvg-id="dummy-3407963" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20220910%2Foriginal%2Fpngtree-selamat-hari-radio-elektronik-white-putih-modern-design-png-image_8529792.png&f=1&nofb=1&ipt=026a704ba1370191b0addb9a826c52ce042603247cbfd97de94e0c11f0cf1452" group-title="International",Taste OF Italy
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1832612.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Taste The Nation Padma Lakshmi (WITH)" group-title="International",Taste The Nation Padma Lakshmi (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Taste The Nation Padma Lakshmi (WITH)" group-title="24/7 TV Shows",Taste The Nation Padma Lakshmi (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598605.ts
-#EXTINF:0 CUID="1713616" tvg-name="Taste The Nation Padma Lakshmi (WITH)" tvg-id="dummy-1713616" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Taste The Nation Padma Lakshmi (WITH)
+#EXTINF:0 CUID="1713616" tvg-name="Taste The Nation Padma Lakshmi (WITH)" tvg-id="dummy-1713616" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Taste The Nation Padma Lakshmi (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598605.ts
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tastemade.png" tvg-name="Tastemade" group-title="Entertainment",Tastemade
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1568624.ts
@@ -48289,9 +48289,9 @@ http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536406.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536406.ts
 #EXTINF:0 CUID="1745275" tvg-name="The Apprentice" tvg-id="dummy-1745275" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",The Apprentice
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600689.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="The Are Alright (KIDS)" group-title="Kids",The Are Alright (KIDS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="The Are Alright (KIDS)" group-title="24/7 TV Shows",The Are Alright (KIDS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600255.ts
-#EXTINF:0 CUID="1745683" tvg-name="The Are Alright (KIDS)" tvg-id="dummy-1745683" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="Kids",The Are Alright (KIDS)
+#EXTINF:0 CUID="1745683" tvg-name="The Are Alright (KIDS)" tvg-id="dummy-1745683" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",The Are Alright (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600255.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="The Arrangement" group-title="International",The Arrangement
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599240.ts
@@ -48621,9 +48621,9 @@ http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1835016.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1835016.ts
 #EXTINF:0 CUID="2276626" tvg-name="The Cooking Channel" tvg-id="cookingchannel.ca" tvg-logo="https://logo.m3uassets.com/cookingchannel.png" group-title="Entertainment",The Cooking Channel
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/414187.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="The Cool (KIDS)" group-title="Kids",The Cool (KIDS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="The Cool (KIDS)" group-title="24/7 TV Shows",The Cool (KIDS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600278.ts
-#EXTINF:0 CUID="1745660" tvg-name="The Cool (KIDS)" tvg-id="dummy-1745660" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="Kids",The Cool (KIDS)
+#EXTINF:0 CUID="1745660" tvg-name="The Cool (KIDS)" tvg-id="dummy-1745660" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",The Cool (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600278.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="The Coroner" group-title="International",The Coroner
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600119.ts
@@ -48737,9 +48737,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476097.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598587.ts
 #EXTINF:0 CUID="1713634" tvg-name="The Dog House" tvg-id="dummy-1713634" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",The Dog House
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598587.ts
-#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="The Dog Whisperer Cesar Millan (WITH)" group-title="International",The Dog Whisperer Cesar Millan (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="The Dog Whisperer Cesar Millan (WITH)" group-title="24/7 TV Shows",The Dog Whisperer Cesar Millan (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536395.ts
-#EXTINF:0 CUID="1133703" tvg-name="The Dog Whisperer Cesar Millan (WITH)" tvg-id="dummy-1133703" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="International",The Dog Whisperer Cesar Millan (WITH)
+#EXTINF:0 CUID="1133703" tvg-name="The Dog Whisperer Cesar Millan (WITH)" tvg-id="dummy-1133703" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="24/7 TV Shows",The Dog Whisperer Cesar Millan (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536395.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="The Dragon Prince" group-title="International",The Dragon Prince
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1597880.ts
@@ -49049,9 +49049,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600269.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600830.ts
 #EXTINF:0 CUID="1745134" tvg-name="The Golden Girls" tvg-id="dummy-1745134" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",The Golden Girls
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600830.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="The Good (WIFE)" group-title="International",The Good (WIFE)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="The Good (WIFE)" group-title="24/7 TV Shows",The Good (WIFE)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599214.ts
-#EXTINF:0 CUID="1713007" tvg-name="The Good (WIFE)" tvg-id="dummy-1713007" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",The Good (WIFE)
+#EXTINF:0 CUID="1713007" tvg-name="The Good (WIFE)" tvg-id="dummy-1713007" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",The Good (WIFE)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599214.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="The Good Doctor" group-title="International",The Good Doctor
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599215.ts
@@ -49121,9 +49121,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599213.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600263.ts
 #EXTINF:0 CUID="1745675" tvg-name="The Half Hour" tvg-id="dummy-1745675" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",The Half Hour
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600263.ts
-#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="The Hall (KIDS)" group-title="Kids",The Hall (KIDS)
+#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="The Hall (KIDS)" group-title="24/7 TV Shows",The Hall (KIDS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536670.ts
-#EXTINF:0 CUID="1133428" tvg-name="The Hall (KIDS)" tvg-id="dummy-1133428" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="Kids",The Hall (KIDS)
+#EXTINF:0 CUID="1133428" tvg-name="The Hall (KIDS)" tvg-id="dummy-1133428" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" group-title="24/7 TV Shows",The Hall (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536670.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="The Handmaid S Tale" group-title="International",The Handmaid S Tale
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598574.ts
@@ -49353,9 +49353,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598562.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599206.ts
 #EXTINF:0 CUID="1713015" tvg-name="The Last Tycoon" tvg-id="dummy-1713015" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",The Last Tycoon
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599206.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="The Late Show Stephen Colbert (WITH)" group-title="International",The Late Show Stephen Colbert (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="The Late Show Stephen Colbert (WITH)" group-title="24/7 TV Shows",The Late Show Stephen Colbert (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600252.ts
-#EXTINF:0 CUID="1745686" tvg-name="The Late Show Stephen Colbert (WITH)" tvg-id="dummy-1745686" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",The Late Show Stephen Colbert (WITH)
+#EXTINF:0 CUID="1745686" tvg-name="The Late Show Stephen Colbert (WITH)" tvg-id="dummy-1745686" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",The Late Show Stephen Colbert (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600252.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="The Lawyer" group-title="International",The Lawyer
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600115.ts
@@ -49685,9 +49685,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1599191.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598554.ts
 #EXTINF:0 CUID="1713667" tvg-name="The Night That Didnt End" tvg-id="dummy-1713667" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",The Night That Didnt End
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598554.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="The Not Too Late Show Elmo (WITH)" group-title="International",The Not Too Late Show Elmo (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="The Not Too Late Show Elmo (WITH)" group-title="24/7 TV Shows",The Not Too Late Show Elmo (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598553.ts
-#EXTINF:0 CUID="1713668" tvg-name="The Not Too Late Show Elmo (WITH)" tvg-id="dummy-1713668" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",The Not Too Late Show Elmo (WITH)
+#EXTINF:0 CUID="1713668" tvg-name="The Not Too Late Show Elmo (WITH)" tvg-id="dummy-1713668" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",The Not Too Late Show Elmo (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598553.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="The O C" group-title="International",The O C
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598551.ts
@@ -50501,9 +50501,9 @@ http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/696033.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600004.ts
 #EXTINF:0 CUID="1714107" tvg-name="Thundercats" tvg-id="dummy-1714107" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Thundercats
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/696033.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Tidying Up Marie Kondo (WITH)" group-title="International",Tidying Up Marie Kondo (WITH)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Tidying Up Marie Kondo (WITH)" group-title="24/7 TV Shows",Tidying Up Marie Kondo (WITH)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598534.ts
-#EXTINF:0 CUID="1713687" tvg-name="Tidying Up Marie Kondo (WITH)" tvg-id="dummy-1713687" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Tidying Up Marie Kondo (WITH)
+#EXTINF:0 CUID="1713687" tvg-name="Tidying Up Marie Kondo (WITH)" tvg-id="dummy-1713687" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Tidying Up Marie Kondo (WITH)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598534.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Tiffany Haddish" group-title="International",Tiffany Haddish
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1601054.ts
@@ -51221,9 +51221,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536348.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1476061.ts
 #EXTINF:0 CUID="1715091" tvg-name="Transformers" tvg-id="dummy-1715091" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Transformers
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1013493.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Transformers Beast (WARS)" group-title="International",Transformers Beast (WARS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Transformers Beast (WARS)" group-title="24/7 TV Shows",Transformers Beast (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598526.ts
-#EXTINF:0 CUID="1713695" tvg-name="Transformers Beast (WARS)" tvg-id="dummy-1713695" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Transformers Beast (WARS)
+#EXTINF:0 CUID="1713695" tvg-name="Transformers Beast (WARS)" tvg-id="dummy-1713695" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Transformers Beast (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598526.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Transformers Cyberverse" group-title="International",Transformers Cyberverse
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598525.ts
@@ -51383,9 +51383,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1597854.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598519.ts
 #EXTINF:0 CUID="1713702" tvg-name="Tron Uprising" tvg-id="dummy-1713702" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Tron Uprising
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598519.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Trophy (WIFE)" group-title="International",Trophy (WIFE)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="Trophy (WIFE)" group-title="24/7 TV Shows",Trophy (WIFE)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600229.ts
-#EXTINF:0 CUID="1745709" tvg-name="Trophy (WIFE)" tvg-id="dummy-1745709" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Trophy (WIFE)
+#EXTINF:0 CUID="1745709" tvg-name="Trophy (WIFE)" tvg-id="dummy-1745709" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",Trophy (WIFE)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1600229.ts
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20220910%2Foriginal%2Fpngtree-selamat-hari-radio-elektronik-white-putih-modern-design-png-image_8529792.png&f=1&nofb=1&ipt=026a704ba1370191b0addb9a826c52ce042603247cbfd97de94e0c11f0cf1452" tvg-name="Tropicales" group-title="International",Tropicales
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1832651.ts
@@ -51801,7 +51801,7 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1860592.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598516.ts
 #EXTINF:0 CUID="1713705" tvg-name="Turn" tvg-id="dummy-1713705" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",Turn
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598516.ts
-#EXTINF:0 CUID="1242740" tvg-name="Tv (KIDS)" tvg-id="dummy-1242740" tvg-logo="https://logo.m3uassets.com/kidstv.png" group-title="Kids",Tv (KIDS)
+#EXTINF:0 CUID="1242740" tvg-name="Tv (KIDS)" tvg-id="dummy-1242740" tvg-logo="https://logo.m3uassets.com/kidstv.png" group-title="24/7 TV Shows",Tv (KIDS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1541162.ts
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/wildtv.png" tvg-name="TV (WILD)" group-title="Sports: US",TV (WILD)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/498643.ts
@@ -52357,9 +52357,9 @@ http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/716546.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/716546.ts
 #EXTINF:0 CUID="892571" tvg-name="UFC 10:" tvg-id="dummy-892571" tvg-logo="https://logo.m3uassets.com/ufc.png" group-title="Sports: Combat",UFC 10:
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/605926.ts
-#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US2/UFC%20Network.png?raw=true" tvg-name="UFC Network 24/7" group-title="Sports: Combat",UFC Network 24/7
+#EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US2/UFC%20Network.png?raw=true" tvg-name="UFC Network 24/7" group-title="24/7 TV Shows",UFC Network 24/7
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/325059.ts
-#EXTINF:0 CUID="34298" tvg-name="UFC Network 24/7" tvg-id="UFC24_7.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US2/UFC%20Network.png?raw=true" group-title="Sports: Combat",UFC Network 24/7
+#EXTINF:0 CUID="34298" tvg-name="UFC Network 24/7" tvg-id="UFC24_7.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US2/UFC%20Network.png?raw=true" group-title="24/7 TV Shows",UFC Network 24/7
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/325059.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" tvg-name="UFC PPV #" group-title="PPV & Events",UFC PPV #
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/716557.ts
@@ -56397,9 +56397,9 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/380830.ts
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/380831.ts
 #EXTINF:0 CUID="2723866" tvg-name="UTV +1" tvg-id="dummy-2723866.plus1" catchup-type="xc" catchup-days="3" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freeview.co.uk%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fsocial_media_share%2Fpublic%2F2019-10%2Futv-plus1-255x140.png%3Fitok%3DFn0j0yUP&f=1&nofb=1&ipt=96a110fb5e572544aa6368424ba9ded84110d22e1adfaf74c9c3f0f01e789637" group-title="International",UTV +1
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/380832.ts
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="V (WARS)" group-title="International",V (WARS)
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" tvg-name="V (WARS)" group-title="24/7 TV Shows",V (WARS)
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598495.ts
-#EXTINF:0 CUID="1713726" tvg-name="V (WARS)" tvg-id="dummy-1713726" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="International",V (WARS)
+#EXTINF:0 CUID="1713726" tvg-name="V (WARS)" tvg-id="dummy-1713726" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true" group-title="24/7 TV Shows",V (WARS)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1598495.ts
 #EXTINF:0 CUID="2276823" tvg-name="V Montreal" tvg-id="dummy-2276823" tvg-logo="https://logo.m3uassets.com/vmontreal.png" group-title="International",V Montreal
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/412904.ts
@@ -57415,7 +57415,7 @@ http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536294.ts
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1501737.ts
 #EXTINF:0 CUID="3000203" tvg-name="World Rugby: Valladolid Final Day @ May 31 3:45 AM :Paramount+  01" tvg-id="dummy-3000203" tvg-logo="https://logo.m3uassets.com/paramountplus.png" group-title="PPV & Events",World Rugby: Valladolid Final Day @ May 31 3:45 AM :Paramount+  01
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1501737.ts
-#EXTINF:0 CUID="1148238" tvg-name="World Tv (WAR)" tvg-id="dummy-1148238" tvg-logo="https://logo.m3uassets.com/dworld.png" group-title="International",World Tv (WAR)
+#EXTINF:0 CUID="1148238" tvg-name="World Tv (WAR)" tvg-id="dummy-1148238" tvg-logo="https://logo.m3uassets.com/dworld.png" group-title="24/7 TV Shows",World Tv (WAR)
 http://warner46456.wd.aamberrcloud8k.com/live/c72446e8b/448fef411d/1537381.ts
 #EXTINF:-1 tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Prime%20Video.png?raw=true" tvg-name="World's Most Evil Killers" group-title="International",World's Most Evil Killers
 http://cf.aamberrcloud8k.com/live/c72446e8b/448fef411d/1536293.ts
